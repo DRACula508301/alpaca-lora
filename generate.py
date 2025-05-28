@@ -298,7 +298,7 @@ def main(
             gr.components.Checkbox(label="Stream output"),
         ],
         outputs=[
-            gr.inputs.Textbox(
+            gr.components.Textbox(
                 lines=5,
                 label="Output",
             )
