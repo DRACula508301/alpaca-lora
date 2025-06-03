@@ -1,0 +1,116 @@
+11falsenonelisttrueCompute ResourcesHave questions or need help with compute, including activation or issues? Follow this link.User AgreementDocker UsageThe information on this page assumes that you have a knowledge base of using Docker to create images and push them to a repository for use. If you need to review that information, please see the links below.https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNzc4YTZjNjIxYmQwNGI3OTk4M2Q0MWJmZWJjODQ4YTMiLCJwIjoiYyJ9 https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiMTVjMjNlMWU1YjFmNDA3ZWJlOGRmOGI3MTkwYTEzNmYiLCJwIjoiYyJ9 OverviewThe purpose of this tutorial is to demonstrate usage of the Intel® Compiler Base image for use on the Scientific Compute Platform. Please refer to this page for more information on the Intel® Compiler Base image. In this tutorial, we will be compiling a sample MPI-enabled Hello World program. The tutorial uses material from this page.RequirementsDocker Desktop (https://www.docker.com/products/docker-desktop )Free Docker Hub Account (https://hub.docker.com)Multi-Stage BuildThis section of the tutorial will demonstrate how to build a multi-stage Docker image for use on the Scientific Compute Platform. An MPI-enabled Hello World program is compiled using the Intel® Compiler Base image.MPI Hello World Code ExampleBelow is sample code for a simple MPI-enabled Hello World program.#include <mpi.h>
+#include <stdio.h>
+
+int main(int argc, char** argv) {
+    // Initialize the MPI environment
+    MPI_Init(NULL, NULL);
+
+    // Get the number of processes
+    int world_size;
+    MPI_Comm_size(MPI_COMM_WORLD, &world_size);
+
+    // Get the rank of the process
+    int world_rank;
+    MPI_Comm_rank(MPI_COMM_WORLD, &world_rank);
+
+    // Get the name of the processor
+    char processor_name[MPI_MAX_PROCESSOR_NAME];
+    int name_len;
+    MPI_Get_processor_name(processor_name, &name_len);
+
+    // Print off a hello world message
+    printf("Hello world from processor %s, rank %d out of %d processors\n",
+          processor_name, world_rank, world_size);
+
+    // Finalize the MPI environment.
+    MPI_Finalize();
+}Dockerfile for a Multi-Stage BuildUsing your favorite text editor, save the above code to a file called mpi_hello_world.c. In the same folder as the mpi_hello_world.c file, create a file called Dockerfile. Add the following lines of code to the Dockerfile file:# Begin Stage 1 with the base compiler image.
+FROM ghcr.io/washu-it-ris/compiler-base:oneapi2021.1.1_centos7 as build
+
+# Additional dependencies for the Intel® MPI C compiler
+RUN yum install -y gcc-c++
+
+# Change working directory
+WORKDIR /opt/mpi_hello_world/src/
+
+# Copy the source code to the working directory
+COPY mpi_hello_world.c .
+
+# Copy source code to a new location inside the container.
+RUN cd /opt/mpi_hello_world/src/ && \
+    . /opt/intel/oneapi/setvars.sh && \
+    mpiicc -o mpi_hello_world mpi_hello_world.c && \
+    cp -f mpi_hello_world /usr/local/bin
+
+# Begin Stage 2 with a new base image.
+FROM centos:7.9.2009 as runtime
+
+# Copy only the needed parts of Stage 1.
+COPY --from=build /usr/local/bin/mpi_hello_world /usr/local/bin
+COPY --from=build /etc/yum.repos.d/ /etc/yum.repos.d/
+
+# Add any additional runtime dependencies here
+RUN yum install -y wget perl numactl-libs \
+    gtk2 atk cairo gcc-gfortran tcsh libnl3 \
+    libmnl tcl tk \
+    libusbx pciutils-libs pciutils lsof ethtool fuse-libs
+
+# Set up MLNX_OFED driver.
+ENV MOFED_VERSION 5.8-4.1.5.0
+ENV OS_VERSION rhel7.9
+ENV PLATFORM x86_64
+RUN wget -q http://content.mellanox.com/ofed/MLNX_OFED-${MOFED_VERSION}/MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}.tgz && \
+tar -xvf MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}.tgz && \
+MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}/mlnxofedinstall --user-space-only --without-fw-update -q  --distro ${OS_VERSION} && \
+cd .. && \
+rm -rf ${MOFED_DIR} && \
+rm -rf *.tgzBuilding and Pushing the Docker ImagePlease see this section for more information on building and pushing the Docker image to Docker Hub.Interactive Command-Line SessionJob SubmissionThe following command can be used to submit an interactive command-line job to run the MPI-enabled Hello World program. Make sure to replace docker/image with the name of the Docker image you created.LSF_DOCKER_VOLUMES="/scratch1/fs1/ris/application/intel/oneapi/:/opt/intel/oneapi" LSF_DOCKER_NETWORK=host LSF_DOCKER_IPC=host bsub -n 20 -Is -q general-interactive -R "affinity[core(1):distribute=pack] span[ptile=4]" -a "docker(docker/image)" /bin/bashThe job submission command uses environment variables required for parallel computing on RIS. The job submission is also requesting 20 vCPUs spread across 5 exec nodes. Please see the parallel computing documentation for more information.Running the MPI-enabled Hello World programRun the MPI-enabled Hello World program using 20 vCPUs with the following command:mpirun -np 20 /usr/local/bin/mpi_hello_worldThe following output should be displayed after the image has finished downloading on all exec nodes:Hello world from processor compute1-exec-98.ris.wustl.edu, rank 12 out of 20 processors
+Hello world from processor compute1-exec-98.ris.wustl.edu, rank 13 out of 20 processors
+Hello world from processor compute1-exec-98.ris.wustl.edu, rank 14 out of 20 processors
+Hello world from processor compute1-exec-98.ris.wustl.edu, rank 15 out of 20 processors
+Hello world from processor compute1-exec-6.ris.wustl.edu, rank 5 out of 20 processors
+Hello world from processor compute1-exec-6.ris.wustl.edu, rank 6 out of 20 processors
+Hello world from processor compute1-exec-6.ris.wustl.edu, rank 4 out of 20 processors
+Hello world from processor compute1-exec-6.ris.wustl.edu, rank 7 out of 20 processors
+Hello world from processor compute1-exec-5.ris.wustl.edu, rank 1 out of 20 processors
+Hello world from processor compute1-exec-218.ris.wustl.edu, rank 8 out of 20 processors
+Hello world from processor compute1-exec-218.ris.wustl.edu, rank 9 out of 20 processors
+Hello world from processor compute1-exec-5.ris.wustl.edu, rank 3 out of 20 processors
+Hello world from processor compute1-exec-218.ris.wustl.edu, rank 10 out of 20 processors
+Hello world from processor compute1-exec-5.ris.wustl.edu, rank 0 out of 20 processors
+Hello world from processor compute1-exec-218.ris.wustl.edu, rank 11 out of 20 processors
+Hello world from processor compute1-exec-5.ris.wustl.edu, rank 2 out of 20 processors
+Hello world from processor compute1-exec-217.ris.wustl.edu, rank 19 out of 20 processors
+Hello world from processor compute1-exec-217.ris.wustl.edu, rank 16 out of 20 processors
+Hello world from processor compute1-exec-217.ris.wustl.edu, rank 17 out of 20 processors
+Hello world from processor compute1-exec-217.ris.wustl.edu, rank 18 out of 20 processorsSingle-Stage BuildShould you require a single-stage build, the following Dockerfile can be used. Please be aware that this method results in a larger Docker image which may cause increased computing time/resources/cost. This method also caches the source code in build layers resulting in public exposure, which may be unwanted. When possible, it is advised to use the multi-stage build method.# Begin with the base compiler image.
+FROM ghcr.io/washu-it-ris/compiler-base:oneapi2021.1.1_centos7 as build
+
+# Additional dependencies for the Intel® MPI C compiler and MLNX
+RUN yum install -y gcc-c++ wget perl numactl-libs \
+    gtk2 atk cairo gcc-gfortran tcsh libnl3 \
+    libmnl tcl tk \
+    libusbx pciutils-libs pciutils lsof ethtool fuse-libs
+
+# Change working directory
+WORKDIR /opt/mpi_hello_world/src/
+
+# Copy the source code to the working directory
+COPY mpi_hello_world.c .
+
+# Copy source code to a new location inside the container.
+RUN cd /opt/mpi_hello_world/src/ && \
+    . /opt/intel/oneapi/setvars.sh && \
+    mpiicc -o mpi_hello_world mpi_hello_world.c && \
+    cp -f mpi_hello_world /usr/local/bin
+
+# Set up MLNX_OFED driver.
+ENV MOFED_VERSION 5.8-4.1.5.0
+ENV OS_VERSION rhel7.9
+ENV PLATFORM x86_64
+RUN wget -q http://content.mellanox.com/ofed/MLNX_OFED-${MOFED_VERSION}/MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}.tgz && \
+tar -xvf MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}.tgz && \
+MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}/mlnxofedinstall --user-space-only --without-fw-update -q  --distro ${OS_VERSION} && \
+cd .. && \
+rm -rf ${MOFED_DIR} && \
+rm -rf *.tgz

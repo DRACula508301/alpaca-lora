@@ -1,0 +1,248 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 9 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/r/rclone/rclone)
+>> /Border [ 0 0 0 ] /Rect [ 48.92896 643.3646 174.3965 654.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rclone.org/downloads/)
+>> /Border [ 0 0 0 ] /Rect [ 239.414 329.7146 335.294 340.9646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 5 0 R 6 0 R ] /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rclone.org/docs/#config-config-file)
+>> /Border [ 0 0 0 ] /Rect [ 348.569 276.3708 420.269 287.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 8 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Outlines 14 0 R /PageMode /UseNone /Pages 30 0 R /Type /Catalog
+>>
+endobj
+13 0 obj
+<<
+/Author () /CreationDate (D:20250603134655-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250603134655-05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+14 0 obj
+<<
+/Count 10 /First 15 0 R /Last 27 0 R /Type /Outlines
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 7 0 R /Fit ] /Next 16 0 R /Parent 14 0 R /Title (What is Rclone?)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Overview)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 7 0 R /Fit ] /Next 18 0 R /Parent 14 0 R /Prev 16 0 R /Title (Prerequisites)
+>>
+endobj
+18 0 obj
+<<
+/Count -3 /Dest [ 7 0 R /Fit ] /First 19 0 R /Last 26 0 R /Next 27 0 R /Parent 14 0 R 
+  /Prev 17 0 R /Title (Building an Endpoint)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 7 0 R /Fit ] /Next 20 0 R /Parent 18 0 R /Title (Installation)
+>>
+endobj
+20 0 obj
+<<
+/Count -2 /Dest [ 7 0 R /Fit ] /First 21 0 R /Last 22 0 R /Next 26 0 R /Parent 18 0 R 
+  /Prev 19 0 R /Title (Configuration)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 7 0 R /Fit ] /Next 22 0 R /Parent 20 0 R /Title (Creating the configuration file for the connection to WUSTL Box)
+>>
+endobj
+22 0 obj
+<<
+/Count -3 /Dest [ 10 0 R /Fit ] /First 23 0 R /Last 25 0 R /Parent 20 0 R /Prev 21 0 R 
+  /Title (Copying the credential file to the home directory on compute1)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 24 0 R /Parent 22 0 R /Title (Confirm the rclone configuration file from the terminal where rclone config has been run.)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 25 0 R /Parent 22 0 R /Prev 23 0 R /Title (\(Optional\) Verify the content of the file to see the remote storage you\220ve just created.)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Parent 22 0 R /Prev 24 0 R /Title (Copy the file to your compute1 home directory. For example \(replacing <washukey> with your WashU key\):)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Parent 18 0 R /Prev 20 0 R /Title (Test)
+>>
+endobj
+27 0 obj
+<<
+/Count -1 /Dest [ 11 0 R /Fit ] /First 28 0 R /Last 28 0 R /Parent 14 0 R /Prev 18 0 R 
+  /Title (Use Case)
+>>
+endobj
+28 0 obj
+<<
+/Count -1 /Dest [ 11 0 R /Fit ] /First 29 0 R /Last 29 0 R /Parent 27 0 R /Title (From Box to Storage1)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Parent 28 0 R /Title (Example: A user has a file File_A in the WashU Box. The file needs to be moved to the storageN space /storageN/fs1/${STORAGE_ALLOCATION}/Active.)
+>>
+endobj
+30 0 obj
+<<
+/Count 3 /Kids [ 7 0 R 10 0 R 11 0 R ] /Type /Pages
+>>
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2077
+>>
+stream
+Gb!;d>Ar7S'RnB337q/-UpR)4qTr[8R]Sj&/r>Ko5l*`=FK@nH*E'0V?pB*qeA[GX]6"rU$pbhefC,7$SXV#epd<=+knN&l#_R1*e:liuW)%dXIYNp$U\geor(#MtDG3/WoL"ETLU`3(iRsK-$?'W76R'RGD?,S>]U8D273i?F(f#W[Jue["IP`7"Iap/;neR8M#n6juIuRU)GV^m>foCqp<R%J*FYbt(UB+^=^_`JK7o;SSs%oq",p^+a?`_WX0o>U(@KXFZd;Zsr<ZK$p%&h"QgMM7oG3/?N/FmP=QV^C9*mI)V:O-(laNH,1=iD,YYR4M.#jiWd.p+YEEXF6G@:\6=Lp\/6QoOs]AM5ogW22loJB_5'YYi6/!E\`kdF)]Xk.<7N#2;J>[Xc4?gn3%K!9@;cMNcng0AI+:i^>cY-;oGcET;1#V%03%kBKIlJ-7UoV"4/H(Ir8(?#(ME$80d/"3[n!!dYIK]nlYij3>a.+%IVRN'&giL;XTZ&;96P`*#hLE:os(F"YG=na>P4Ssr^09YDAR-M<1f"5e)i;DB35JM`Ou^\U=B7Fj(&dZB-eNVkGPfZ#%QF52HD)qXbOO]7BQ$L"aF46ip=j*mKTN_Zra)5,>T<b>1hGhYoL>KNbN;?f]X&h>KI<6@fu,>MQQ:t7P3>k/Rtb&rd\AnnElS)rZb2^.OEfNP(rSoLa2K5D/h,RNMudGgErlg((aH-R5W\6MX8c\[.Qm7j?'=?XT4U]/"sNN''/0X7U7iU=c:5a:adC'fSb=eR9$X"/97(f$m*D^RS!p;C^,UnSjl\#9(-F(Hg]AkL<5aYU;.N]1Z.)sXked(jn/7"ag!H1IE'aYu0m%g\oYh!mifB92i.lnL/3%3BS7GKWBJGu(8,/^NOVX6qP(ZcEa+$<U!S-7N]LV(#KG\OOL#LfUphRt[]c'gp$)4]6Za/`5Lt4G?[DgmXa^ih>PFgKj64aSD/jB=b9fQ")[]%5,M\fA2RRIQAPJ[UO_CKW*):)P!E2IojX;"`RSnaUXZrZ"@!;7@I?/RpKgl:\W5<:XQT[r661b-#oG_H['c]At7CsO_L`13qd'ObsZGf"2'U]=H.1:LjBR/BH:SL>aiU<0`gk&2kV(J\E:>;&3i&"MH0I-7f3g$(_HG7)>bEL0P0M#.mjtm$F2:Ra<ZX0/@8$]R#,6`/`Q&M"9-6;23N>q*A'D2-c(fG]t'M66(_h)H4dS<*8f*k18#3+cYH.r\>FfFhqqWG:#2@,Dlc*-jLQ!KXg!#+S>Q/T*%Z%+eN$ocmLTm:=@t05E/hQ*=K%5f3%bTT1.)>h$U/47)jBM3T=;@H]VC@$PXL2;*HX6>_-6AD!g:Z#]U\._Pe(MX3LcA5R#*<7FILb+2j[rnJl,i0b`Cn#>jBd?$d>&qDF-p:E:<XnQhA8Sm-=<]GaQ/m&U%L\5G(P`=hk6QZs"Se!rmkP1BA`EY^<n7W]i=Z^a:Z?FsNs:$2P`;JQ^10U;!\?r+O]KJH-XZBD"&%pO(R8Es_5B`ItC&dPYoDJ>T@IQ_eT3Ul/J@O2S^1G(g`AM.8,kK;Ni'q0D2iN9e=qlfoogKE;o&/.]AJ1gp_!ADGOPM.a94C$]5%G"CPX(]g4Vf6br/4TDphS'Ho5-5^37_f]M>@2O>_?2Ii]$6$IdlIu4PLB\'Ap,/B5B9+EL_A@cKALd>maYDAE)8*q'jA%XA-"^ApZ+N)J00!jXJ\jXTGdYQG),k8nA-Ve<Hr9(_3g9_(\:5$96k8M$]m:1\EVFI-@MsghWh-W([dl#@NkhQml1::Rl^b=l;ngJDRh+528pd:NhE^-"?.bSPV%Mkg*k"WaKD0m&gXo!iEE^?ZJPBb\5=GZ*FYCbH<56gmI5?nM>8nqb$k9[YYUD>7\t:aZNMCW(P_&E!pdOXpS7%gdl+Rd3V+r@Y<n'*e/\4jI=sng>a/gmC\2jQMQ^\Wi+!s<&j5]fSV"a+?DT&ds3X'q"5F],(F0KOuY24dX6*O>E!GO<(C%>^HqsfipS"#/J\DMj2XRX&NK@(Bs,qik"(-OTckoIf@bc5lVC,=X#^iS8s!D!.j,,PAu~>endstream
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2350
+>>
+stream
+Gb!;eD,VB4&H9tYfP-NuaX"0707KCVQ4T37,s[:@9P<Q#q+ep:G:,nl_ml9"[s+[t*@<c,9Q?rKK/lT1Uj[EYB30[O)dh+/7k)6[+gbQPTH4N^5Q_Y7E$'7Y)]ptEj"GPM]cQ]r:=+Pu]1orPn)JU.\g]b<AIIb2IHlM?gVA[3DG%.497!-?L8k'+bF"!q,W%$\m7X"dk!!Do*(C7Xc=&7=j:dQ'P=3\aFp9#qY&baB%;[;JHiR"fGa=tZpdt.WH),]a"@htQ1m6NoS=P[/_Oggd,-LTQ0$ef4*l7>/$m-Ee?X$H90/pDqpINmR]R2us-1.?3,0QPn:hkX?-@QVa%_%@D!^"t<G[o!P7G'Ap;O/SL!kVU\'en"F1?`#JUu2B9']S'I.YqRuAjqm#alYP>S3/"I_;'WTne/C/;^_Ymn$U@^OV'C`=MAq^Y]4>m(4Z)K*R$p7^k`*-S?a^.0o2oQ0KKIpQ?$BE*5o/kTk'H-'/,^cCm8lJ\qh\FaL_\,*Ui>:*pfKd*$2cFH[5I8n+c?qGHeR5AS(T`;0-=EOV0*AF4dou"@EhkpQ#)ZLi31]a&_4KofHrdj`!EF;!<VHbGfW50%#Q0T<Xp@AcsdIOmQ$Z]o)b<8n>r2;\#F;V]6.;fSFS"kge$XA)n!DGPXV=g\!i3X6/#c`Q"+ErIA=AK,iY/.s](i!URfM#8U[N/4-M)@JqF<q,i2sW>^L)SiqY<]O]kuaU8]%R*,P@3"["]aAnT^SBIuOagel742#MPR*,_f[%T/A9g4V`.Wb$Z^PTs?Gf/\54,>Uh3_.:hgpJ/i2@BmNc(mBZm)D"tkQ<mmU,,*C9+93H(/72O0V1CYhpG^WS'HNY3Q'_V$1h3+"abDb"X>=+(jWM3`KKQR47qkRFiJ5O7Bqi2^qc?pXLau?NLpD/an+bieY4,I,^e!*k]_>Z$bnn$;<LKt+22%S"8hZ58?q]k)(V!IP<7K%T9m+lD_VH8Z$MIR3"WA&A'e*=A^$jaC_>2)0,r0aoi3'%9t74*F\sm0,W"F>M^l$6FE@&@VsT3R_4>?eGp]W`^1DW]X%cGIJL,k)$PR]B=];PXR)F\p0'1"HYd47R+\d0%X4glSe>38aDL5qAhZ/3#$)J(BGc;Mq"q,%2:in<@\SRFjGslV-;`JR%eMth>A2P,P/^#!/Tno)(&])Y@VbA@*#/jWR@V;cQC8uruQI2Qt_1dh%=>/SX2+)I?HB0!_=<Aj?D0CLEch$Osc#V:p1U[ML;e*:i*PW)mjT>R&c)&6O,$fqDCpS@J-5F\>G3,?M$DI)f%:q*_1gtIL<E58mZ':-iK^oM@J7#U(Rd`UQE;\Yf8g<nrAtQ\7&h@X)fNu$6g&c/010B"C3VY$^;4L1&Y2Sl:"i=O-9?(UEY$:Ci/)n_^N?YFp`pk#?rS%^5TQ^VuD=!uWlkE&0gYM9&E+"\L(9J\JVgL9dMO\%iTg@?2)AW&Q6_Ud+KXSIEY!Bu\FN_XgO>YoN]q$a+hch=05-0>grR,s=m/,TX42J,tJS2IO&aHga@l+'OdH#CeP.kL"SPI@,WiIBl1,XBSO9-%jKpG-k[)b7EC4hQPL]77Fkq<Y11:*7a>V'`,5rQa8>\&Rg3r?m*W,XZih13lF<d>Rq@Z`6GpI/+f2GOX/VaEMS"hGfP,Zn9D-Q8R'$m,=ophI9,8rQt#ipMkE>_*C!n'qWE%I:JIM_Vp*6)N"`*':?qRfh!!S8n46_NX'A;0*7m@3$?2#N0dnM&]0i6/KJrmA$H>gV`E6rsj@Y:KJ(u`Z)$6hiVVfid=tr,.7.t\hVbWf&b/.\a2>*\WJ'7R(b\!m>rIWTou:O=)HAmCeEX1SW#>C+WHhZ8`\*)`[n22N"T:"=tdPRH]&'u_K;9jj@j4u\ZRSXn8oY>C@iq59_5iOYu?p72VW4T(X&a2[uGRBH:YSV>J6n3RJ]+3m_$nK$,*"H3]e:U\X+8A=e_aF0h*Bj^)Y<Wk\n>Km)%;sXEe.6]LXN9n*5g<!ll;Hok:aeW\[O9h3;?#\S^;mC#e?[im[bpkK2k[jV^EgKAX0Oj*=WagJZ]F(9<UkMChmLCFfhFRCttg:Ng(?KOOnpd(-,+=MB['mG<=MT6ba,\M^#-??_D)oKqK8j;tWV>pp6_(YP&4=l\(L8qV)BfebVmOaB]uFJ1Bj7o;C>?__I`@HIpk:MT`A<t=FAA[ThYb%Y$UCYJM/[:`0/MK:s75Adr>r[6-,f.8TCE9o&lD?m5Kkj'W^^LQ;^IPq7S^82NL:B]rrqF(F8T.3&i/cW<UPS,9!R@tHFKZD'i@uK+oBKP(9p&>E9#X]P%T6FAp=Ve0f?+9(;ICT\CrW+oS?K2~>endstream
+endobj
+33 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1339
+>>
+stream
+Gb!#ZCN%ot'`FV1EBdE;\e8N!N1WYC7'k7"RYE//\uO7011gNqISc*]"KhC4n!sJ!8-s([p$N.fB'(jicCB7D?4&$nW;_`RJCaf=!t(8Y0EGo#$\C1u#=m[30(;S:dEEijE\%H#h^+;D%oKnm9qaq@,K+Y>gN)9H#T'B2?9VfIpS\Ne$Bu4Mnm#C9A.5u:j31QYS,-,YiA_CSHi_&"#_#WY/i8rR7j,?#Y0Q7+OBduJggCL&V$)QY"]o3^5;aR@UCY^V<Z+FgK//2nU-+uJV81'6=C`^OMEJl:;A<i8KaE<kGm1ZsP/(%]3$Do9T>M9WGu`Z"H^:R]1o=r]0M\)O5DUMT/>/L>.&&!5"<u);n['d_1<q\C`/1Ea.-rXJ$PAYLZ"VG"EeqJ>YrdJWiZ>+qfp#qiTp(-pQMcQup\FE]`o&;H_7,bB,?^"*R`R<9<:\g[;20';$:$$u;Gc/*#dSi*5UMnBSOkmF*1n8>VT'OE>n(\#*M0q2?f(G$K?K>ELSs=O94JZK#5V!!n!p+IDdZc0e\%*"Qt`+0BI+oG-Cm+`T7p,[J&gLZSr`L,X!g.P0@.aBIXQP4**,]R+L'nSQ9D)J?4!(AZ'%,9M<Luu*@dSQS[?qsL%;"W.UKaUFaf,AOVctU^h<a?/B^#Bl;cE,N.iN2a:%oiR*HAmD0uU!heuB42I!QP`p"VhY&T8FN"O\$r)$k9b<=uN"@c*P))o+GAeWpoX=d1+a*!s,KQo'PS:jcs`F\oVYtau_"8c^<k!15PapcLWX(?=u`Xj.(:M3HtGAWta9%3[8/[3GEQ=hq3Pn@1%oa'ACfjCR#oUq@lS'=9Vf9rcn"8o[n6(I1-r]QLPCW2&oJ3S0E-H'"9INnl-r`s1BWSj$Zc9]anW#"OJ=H=C78W@A4>Qr$ghOFL=n*Fk8dL/g*kC4C5I?cY'4`0U#L[@1&J%*sQMT'Fm'!4.[%\Om5p85aR=BptmoBIlPFXS\J8T$%]-:Efn"'fd??;9QHClDi6:>@5*7[@uDM7#F\FU;t\PZ;Mkm'krc^@B,Gag.J'^%&fJo<?Sq0[2-?_iNqe?O:*1;=h-'r;DAS\D<l&`8*Pr?>lSpqCk%DIb2>\g&(p;2@hr=;(ROjR]B$'gK[7th<uNT>:k0bJ)&auQa^eUPC1)HQZ-6,[YjkJ6JYaGmPt(Qb&,_(60kCiforR@Eba8[o1X4"qj!$md`"pt`RR@#]=Z(pE/mLs7C-P3_+J%#%:#rW!M8W>[Ta+[OocS&^\'q(XGPV+C!Nfp0f,P<[34n#ElZf5)R,2Fhi7p>]=<78WZ68?16:nu)KYgWMd]jSG+rsJ(Bc#dIK~>endstream
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000346 00000 n 
+0000000458 00000 n 
+0000000648 00000 n 
+0000000827 00000 n 
+0000001056 00000 n 
+0000001249 00000 n 
+0000001359 00000 n 
+0000001583 00000 n 
+0000001789 00000 n 
+0000001876 00000 n 
+0000002129 00000 n 
+0000002204 00000 n 
+0000002300 00000 n 
+0000002402 00000 n 
+0000002509 00000 n 
+0000002663 00000 n 
+0000002756 00000 n 
+0000002903 00000 n 
+0000003047 00000 n 
+0000003230 00000 n 
+0000003401 00000 n 
+0000003589 00000 n 
+0000003775 00000 n 
+0000003861 00000 n 
+0000003991 00000 n 
+0000004117 00000 n 
+0000004330 00000 n 
+0000004404 00000 n 
+0000006573 00000 n 
+0000009015 00000 n 
+trailer
+<<
+/ID 
+[<0b70040dbfeddb178bb4f477781e4ef8><0b70040dbfeddb178bb4f477781e4ef8>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 13 0 R
+/Root 12 0 R
+/Size 34
+>>
+startxref
+10446
+%%EOF

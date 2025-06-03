@@ -1,0 +1,212 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 10 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.openmicroscopy.org/omero/)
+>> /Border [ 0 0 0 ] /Rect [ 301.5365 754.6146 329.8715 765.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/servicedesk/customer/portal/2/group/6/create/53)
+>> /Border [ 0 0 0 ] /Rect [ 301.1465 634.6771 326.1515 645.9271 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://informationsecurity.wustl.edu/policies/computer-use-policy)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 572.4271 148.949 583.6771 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://informationsecurity.wustl.edu/faculty-staff-students/security-policies-2/information-security-policy)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 551.6771 167.294 562.9271 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://wustl.edu/about/compliance-policies/computers-internet-policies)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 530.9271 178.124 542.1771 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://omero.ris.wustl.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 219.419 443.8633 266.519 455.1133 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.openmicroscopy.org/support/)
+>> /Border [ 0 0 0 ] /Rect [ 397.3715 645.6571 422.384 656.9071 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/servicedesk/customer/portal/2/group/6/create/53)
+>> /Border [ 0 0 0 ] /Rect [ 346.1465 624.9071 364.904 636.1571 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Annots [ 12 0 R 13 0 R ] /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+15 0 obj
+<<
+/Outlines 17 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog
+>>
+endobj
+16 0 obj
+<<
+/Author () /CreationDate (D:20250603134659-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250603134659-05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+17 0 obj
+<<
+/Count 3 /First 18 0 R /Last 19 0 R /Type /Outlines
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 19 0 R /Parent 17 0 R /Title (Overview)
+>>
+endobj
+19 0 obj
+<<
+/Count -5 /Dest [ 11 0 R /Fit ] /First 20 0 R /Last 24 0 R /Parent 17 0 R /Prev 18 0 R 
+  /Title (Contents)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 21 0 R /Parent 19 0 R /Title (Before You Get Started)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (\376\377\000A\000c\000c\000e\000s\000s\000i\000n\000g\000 \000W\000a\000s\000h\000U\000\240\000O\000M\000E\000R\000O)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 23 0 R /Parent 19 0 R /Prev 21 0 R /Title (\376\377\000S\000e\000t\000t\000i\000n\000g\000 \000u\000p\000\240\000O\000M\000E\000R\000O\000\240\000I\000n\000s\000i\000g\000h\000t\000 \000C\000l\000i\000e\000n\000t)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 24 0 R /Parent 19 0 R /Prev 22 0 R /Title (Uploading Data Using Insight Client)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 14 0 R /Fit ] /Parent 19 0 R /Prev 23 0 R /Title (OMERO Support)
+>>
+endobj
+25 0 obj
+<<
+/Count 2 /Kids [ 11 0 R 14 0 R ] /Type /Pages
+>>
+endobj
+26 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2215
+>>
+stream
+GauHMgN)%,&:O:Slsna@&:t^\b!Tf^EB9[LYnJY4FJ^]F#t^(I63TWTqYT[^'[:;:KlZR@':Zj]cgKI*`?E#=mXF=V^mc4SI*[A!0Ui0*=U_XoiI#hBpXpqlcb%_9`hI\j:EU#H(/CV1pC=&\]\n6lV*W&;"P.410^nI&=Z/iZ<WhLnBCQ>?1h@!L)Rpm&J7nd-R!n<#bXH*=Ir&*54]S>`rlOHVO3N,#JNl/G5OB7K9g]\Mpi&djBc:Pk[OX6H(_<AaEfqe$anSp3OQN8gh#VJ?-hUaof;%F7-]D[es04W`bi`?Z)@-o`T@+n3KI!K>6E;BAX<4J#HEd-o;'JC^`[\<+Bj`5&&e(Lu"pFo-/WFLf/n(n>I(m+F(2")T3S:0]YJMj*^j;tf?(*'A"dML3cll.C?3[=5&*KQ<q_<RF"#gR3Y@uj7,ocVUk$"0XXYt.Tgm)&#[;7Dl7Jm,]aU(h$)hXIb$UXU3Gd^ZL[VQ^-LL%c$]i!r7TWD!%"(fs'M;g*U;cIck,7n_KC'coWUIBle=3?b.km_]Yf;bq[W6/=9qpg'H[=_4H.W[O>+*1H6D,]/J(Cde5FrNOLYNj(Hm%Pq#HV;$e\.D]FZ)!g^1D]QJY`Cs\g#&gLU2J1g\Pg_M=a6>#(aG2'h3Dc5@&=h97#b:a4$gMa3#@91@_InFdbg[sKjU[1CFccW`FpFT.>t+Q_i\E#07!R8)<<F4YX-s(UIZh2&2u1d=J>;O3;jghl^2T!IP*a"[Q=WAZG&W%%K$W1Yc<7-9o0p'LhYq-pV\"H*.1B=1"a7!7\"$D@<!*A_Wc_b6.1fj.!hhl^<01Y"!ppBZjlltSYY0tn0OU*<%`!d)@!/%7Tihn;P;'mfBpKsVt6p)DKfP#H(^IQ\'eBoX>=1.6-?'#8fZ8KA^ja,U^aM]/rKTS2fMV:K89RGc6,XULch$DF=[@#qD]B()NTTIaRES":*q(III[pW/R8Vr2e=/kB&bj7=(p2CZM`6dfdDuG:-9eBaH?Rb3M3TK&0<+&>Q.!cI":jkW`Q;kchrB2]M_atDajhdP6Z?p%\O(6)Q/W%kb>ma><@UmCJ'm\]G#jMnOTiD!\D?qPs-P!l]&0TL=b:+.*lU-SViB(4U3(;+J+<=5*j52-XV1aP_L0&?X3JA3@N0B+@bJ!8X<mO[cNY(JR6CmR%dQ.(YT?i]cFX]g5>1k2BCkG6S&C9>NWCs,>e'Cdd!tl87g4;COB</eQdBTF]fm4/Zd_^IeLDFqddS%K><)c:uOqGg;lnK=Jgg]eB(`aXo'CR`\?#EVMk:;Yg@-=[D9?SC3<"$l^5=H)Pd4],OoK`Ji"H.;i'W+oPiGE.DjDsZ?cE\4#Q$#>`aei&NsC*dlFqXA@Ht(YI&i!S^R3b#SIn!8,C6GEPZF)XeX_;#PtuE9Y"8/G[$H#kJtHXC7f)%Oi$u[Vt)A,=%(e8M..`fgnA]DLVBL^V-K_'?l=l_.P)m4n+JbK=\:ik.#TG).YgfVr3FGXVcTU0o&VK.pRq8ZT=[h3LMS6$q$JYGAmR)<FC5?(T;cS%(dp6a-bF00om$6dB@2n]*f69A@\);^\mBhm&\*Q;DH_tCa`rZ;W2Jq["mA`XCXF3OlZ_eYKm+q7K>=E?$'0TBZhT@tnf1kT4f$oWpX+071IX<[l-ceYCM^t#dCtKj8_boaO*a@b6+3sR:^a!G1e$u0'U;k;NV[:p?,JMdRCI`41?irT`-/ilXg=p@Oq:tfOf5V^C/o+G,qZPs4X]tW^a_:!K>Yh,ERMpp'a7r:,k$C$fOiLj_brr@E0_b>C<uqPT!o6!Y(&km/MI/;f=G$q:/p@^iD:'>3aCE`F8*)qG24*or?88)Vb?rG)rs5X`_qj+8gARsTeN@(mN6]iYUhaGrPQ_O^-jtgGYe8A50>`fC%[I#`ljWoP;-8'$.a-p>3rUA:DIn9ATK*]rr$FVmW^aUY\2Pd"VH5nj\o<>%BHPR#8#f<_I@K&1uq\,Sq%R;pg7l)V%b(6=jS9PDA9)nd3_X+St/^ce_X9r76[e&$BM"cfX4@[[?U;XbB?l3kLR>b#NPGBYJ8jAAPHIbW?FD2`o;E"?C'U+\u[Bk_87!E/-[tjL[GNX$t^N1qkOU8Wdum0mYALhN=W2[897Su3V*"->ZHL-h7Wc"V@0SL5^/rG)5BFerk"Ci87r]PY\3L&?FS20'rTW]EQ"TRVE^WfftSKP#Zq~>endstream
+endobj
+27 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 761
+>>
+stream
+GauI39lJN8&;KZN/)Fc%i5X(:[A]`jTPD*L+E9,mZg3d6e(E'*J'U)G\(bYKD+.<da<$E&H(Prb7mIS,^Z?6@-uf0JK*rANGf1d?T5e!bmM8HAq<T[g(.Ll[+:A5tnh?lQ#Kn+Uq.*oJ&98@m\"Fi3QT69hb-E9^Z(7e7N'B:5Ys15cT72d+Q"j:_i&1qMDU`rKRS*6,m:^66mBD^iKhf&`IS_r6r,KL.lh/7`p:]/<qr!uYfc(X7.,K8Ib>Hd[\?n*;=WIAfBjGXprR_LVUm"h>r%nM!g2>gWL9<8:,$/Vqq@!gb"g`sD%P`Ipr-c(NLTDu/jDIeH@e`RT8kIUR)H<`fPW^DGFsLH$8WTuod^-_sFh8\LREfNqg,YFZP<;lseWi1d:)'ujrt?Cbmd[tGSZrHh_*XK;AgUacjE*7AhUh'jLEqrSEaMtoe[@9I_o;4b>`tr\@Qa(?#U[(>^K!Nr`_lS76%GI`jVaZnKIi%eFOhT4=t#u`\GgMoF,e_sGnDD/+6G*hH1H0je&oq57>ikA=?slZ7BmA<M_M&l$e#>ZK@PnOEHANSAX#W!*6`<#Z:Wl#_l6?p>AU30?0`,\\n,fb;],?gIB;^^dim>?Tf+rXO&XE=#pH1.KrJdiQ46=$'WdA3*ajAOm.?b))9^Ll@c[p>%\\W!2<')gor9&pF"L#gD='T5AQ^Ku&*]6dft=(!Xf.M[Q^YW$Nin0.%DOj>H39c\:DYg^Vs("m]UTsSd7eGg^u?/:kNW-~>endstream
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000073 00000 n 
+0000000125 00000 n 
+0000000232 00000 n 
+0000000344 00000 n 
+0000000533 00000 n 
+0000000760 00000 n 
+0000000977 00000 n 
+0000001236 00000 n 
+0000001458 00000 n 
+0000001636 00000 n 
+0000001742 00000 n 
+0000001996 00000 n 
+0000002187 00000 n 
+0000002414 00000 n 
+0000002646 00000 n 
+0000002733 00000 n 
+0000002986 00000 n 
+0000003060 00000 n 
+0000003150 00000 n 
+0000003280 00000 n 
+0000003384 00000 n 
+0000003595 00000 n 
+0000003859 00000 n 
+0000003989 00000 n 
+0000004084 00000 n 
+0000004152 00000 n 
+0000006459 00000 n 
+trailer
+<<
+/ID 
+[<66ea167f4f34d0bc448d98886b6d23a9><66ea167f4f34d0bc448d98886b6d23a9>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 16 0 R
+/Root 15 0 R
+/Size 28
+>>
+startxref
+7311
+%%EOF

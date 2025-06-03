@@ -1,0 +1,32 @@
+11falsenonelisttrueCompute ResourcesHave questions or need help with compute, including activation or issues? Follow this link.User AgreementDocker UsageThe information on this page assumes that you have a knowledge base of using Docker to create images and push them to a repository for use. If you need to review that information, please see the links below.https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNzc4YTZjNjIxYmQwNGI3OTk4M2Q0MWJmZWJjODQ4YTMiLCJwIjoiYyJ9 https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiMTVjMjNlMWU1YjFmNDA3ZWJlOGRmOGI3MTkwYTEzNmYiLCJwIjoiYyJ9 OverviewThis documentation will guide you on making sure you’re using the most appropriate OFED version for your Docker image in regards to the Scientific Compute Platform.Installing the Correct VersionShown below is an example of OFED 5.8-4.1.5.0 driver Dockerfile instructions for RedHat 8.9.ENV MOFED_VERSION 5.8-4.1.5.0
+ENV OS_VERSION rhel8.9
+ENV PLATFORM x86_64
+RUN cd /tmp/ && yum install -y pciutils numactl-libs gtk2 atk cairo gcc-gfortran tcsh lsof libnl3 libmnl ethtool tcl tk perl make libusbx fuse-libs && \
+    wget -q http://content.mellanox.com/ofed/MLNX_OFED-${MOFED_VERSION}/MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}.tgz && \
+    tar -xvf MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}.tgz && \
+    MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}/mlnxofedinstall --user-space-only --without-fw-update -q  --distro rhel8.9 && \
+    cd .. && \
+    rm -rf ${MOFED_DIR} && \
+    rm -rf *.tgz && \
+    yum clean allThis also pertains to the Ubuntu 22.04 with different code snippets but same version of OFED 5.8-4.1.5.0.ENV MOFED_VERSION 5.8-4.1.5.0
+ENV OS_VERSION ubuntu22.04
+ENV PLATFORM x86_64
+RUN cd /tmp/ && apt-get update && \
+    DEBIAN_FRONTEND=noninteractive apt-get install -y dkms wget && \
+    wget -q http://content.mellanox.com/ofed/MLNX_OFED-${MOFED_VERSION}/MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}.tgz && \
+    tar -xvf MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}.tgz && \
+    MLNX_OFED_LINUX-${MOFED_VERSION}-${OS_VERSION}-${PLATFORM}/mlnxofedinstall --user-space-only --without-fw-update -q --distro ${OS_VERSION} && \
+    cd .. && \
+    rm -rf ${MOFED_DIR} && \
+    rm -rf *.tgz && \
+    apt-get cleanOnce you have the correct OFED version installation code in your Dockerfile, you can build and push the image as you normally would.Testing Your ImageShown below are the steps to run a test job.Create a bsub file called test.bsub as shown below. Please replace <Docker image tag> with your Docker image tag and <MPI program>.#BSUB -q subscription
+#BSUB -R "span[ptile=1]"
+#BSUB -a "docker(<Docker image tag>)"
+#BSUB -G compute-ris
+#BSUB -oo lsf-%J.log
+
+mpirun -np $NP <MPI program>Run your test. Shown below is an example command. Please replace <Number of processes> with number of exec nodes to run the test.export NP=<Number of processes> && \
+LSF_DOCKER_NETWORK=host \
+LSF_DOCKER_IPC=host \
+LSF_DOCKER_SHM_SIZE=20G \
+bsub -n $NP < test.bsubThere is a test script in https://github.com/WashU-IT-RIS/docker-osu-micro-benchmarks.git . Shown below are the instructions for OSU Benchmark test.Clone the repository.git clone https://github.com/WashU-IT-RIS/docker-osu-micro-benchmarks.gitChange directory to docker-osu-micro-benchmarks.cd docker-osu-micro-benchmarksRun an OSU Benchmark test.Replace <test> with an OSU test that you want to run. For example, osu_bw for OSU bandwidth test.Replace <compute-group> with the compute group you are a member of.QUEUE=subscription bin/osu-test.sh <test> -G <compute-group>

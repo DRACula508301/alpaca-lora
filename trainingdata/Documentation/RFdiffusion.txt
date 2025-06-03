@@ -1,0 +1,39 @@
+11falsenonelisttrueCompute ResourcesHave questions or need help with compute, including activation or issues? Follow this link.User AgreementDocker UsageThe information on this page assumes that you have a knowledge base of using Docker to create images and push them to a repository for use. If you need to review that information, please see the links below.https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNzc4YTZjNjIxYmQwNGI3OTk4M2Q0MWJmZWJjODQ4YTMiLCJwIjoiYyJ9https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiMTVjMjNlMWU1YjFmNDA3ZWJlOGRmOGI3MTkwYTEzNmYiLCJwIjoiYyJ9Image DetailsDocker image hosted at ghcr.io/washu-it-ris/rfdiffusion .Software Included:RFdiffusion (https://github.com/RosettaCommons/RFdiffusion/tree/main )Using RFdiffusion with RISInteractions GUI sessions are done via the Custom noVNC Image application in Open OnDemand (OOD).You can find out more about OOD here: https://washu.atlassian.net/wiki/spaces/RUD/pages/1683489040/Compute1+Quickstart?atlOrigin=eyJpIjoiZTE1YmE4M2IyZDY3NDYzYzg0NWVhYzczZjYxYzMyYzYiLCJwIjoiYyJ9.There are two fields beyond the basics that will need information specific to this image.MountsDocker ImageEnvironment VariablesThis information should be space separated in the field that says “mounts” on the Open OnDemand Portal./scratch1/fs1/ris/references/RFdiffusion/:/scratch1/fs1/ris/references/RFdiffusion/Docker Imageghcr.io/washu-it-ris/rfdiffusion:<tag>Fill out the rest of the fields with the appropriate information (explained in the quick start).Launch the job using the submit button as described in the quick start.Once in an interactive relion session using the following command:Model AvailabilityWe have provided the model files at /scratch1/fs1/ris/references/RFdiffusion/models/ so the users need not download these again. These models were downloaded using the script provided in the RFdiffusion source code that shows what files to download. As of 03/13/2024 the following model files (with hashes) are downloaded and provided:wget -P /scratch1/fs1/ris/references/RFdiffusion/models/ \
+http://files.ipd.uw.edu/pub/RFdiffusion/6f5902ac237024bdd0c176cb93063dc4/Base_ckpt.pt \
+http://files.ipd.uw.edu/pub/RFdiffusion/e29311f6f1bf1af907f9ef9f44b8328b/Complex_base_ckpt.pt \
+http://files.ipd.uw.edu/pub/RFdiffusion/60f09a193fb5e5ccdc4980417708dbab/Complex_Fold_base_ckpt.pt \
+http://files.ipd.uw.edu/pub/RFdiffusion/74f51cfb8b440f50d70878e05361d8f0/InpaintSeq_ckpt.pt \
+http://files.ipd.uw.edu/pub/RFdiffusion/76d00716416567174cdb7ca96e208296/InpaintSeq_Fold_ckpt.pt \
+http://files.ipd.uw.edu/pub/RFdiffusion/5532d2e1f3a4738decd58b19d633b3c3/ActiveSite_ckpt.pt \
+http://files.ipd.uw.edu/pub/RFdiffusion/12fc204edeae5b57713c5ad7dcb97d39/Base_epoch8_ckpt.ptTo use the provided models please add the above path to inference.model_directory_path configuration.RFdiffusion may not run on thpc unless provided with a schedule path with the inference.schedule_directory_path config option. Please note: The mentioned path does not appear to need anything in it to run, but RIS is not support for RFdiffusion and cannot speculate on the config setting’s use beyond its need to be explicitly defined in this context.Batch Job ExamplesRefer below is an example bsub job:LSF_DOCKER_VOLUMES="$LSF_DOCKER_VOLUMES /scratch1/fs1/ris/references/RFdiffusion/:/scratch1/fs1/ris/references/RFdiffusion/" \
+bsub \
+-n 4 \
+-M 32GB \
+-R rusage[mem=32GB] \
+-R select[cpumicro=some_arch] \
+-G <your_group> \
+-q general \
+-a 'docker(ghcr.io/washu-it-ris/rfdiffusion:latest)' \
+python3.9 /app/RFdiffusion/scripts/run_inference.py \
+inference.output_prefix=$HOME/outputs/motifscaffolding \
+inference.model_directory_path=/scratch1/fs1/ris/references/RFdiffusion/models \
+inference.input_pdb=/scratch1/fs1/ris/references/RFdiffusion/inputs/5TPN.pdb \
+inference.num_designs=3 \
+inference.schedule_directory_path=$HOME/schedules \
+contigmap.contigs='[10-40/A163-181/10-40]' \To use GPUs change the bsub arguments:LSF_DOCKER_VOLUMES="$LSF_DOCKER_VOLUMES /scratch1/fs1/ris/references/RFdiffusion/:/scratch1/fs1/ris/references/RFdiffusion/" \
+bsub \
+-n 4 \
+-M 32GB \
+-R 'gpuhost' \
+-G <your_group> \
+-q general \
+-gpu 'num=1' \
+-oo path/to/output \
+-Is -a 'docker(ghcr.io/washu-it-ris/rfdiffusion:test)' \
+python3.9 /app/RFdiffusion/scripts/run_inference.py \
+inference.output_prefix=$HOME/outputs/motifscaffolding \
+inference.model_directory_path=/scratch1/fs1/ris/references/RFdiffusion/models \
+inference.input_pdb=/scratch1/fs1/ris/references/RFdiffusion/inputs/5TPN.pdb \
+inference.num_designs=3 \
+inference.schedule_directory_path=$HOME/schedules \
+contigmap.contigs='[10-40/A163-181/10-40]'Please do not forget to change <your_group> with your compute allocation group.Update the cpumicro architecture ‘some_arch’ line from: cascadelake, skylake, zen2, etc.Available VersionsCurrent Version:ghcr.io/washu-it-ris/rfdiffusionlatest

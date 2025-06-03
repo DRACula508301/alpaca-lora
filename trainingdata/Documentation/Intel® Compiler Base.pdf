@@ -1,0 +1,285 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 7 0 R /F3 10 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/servicedesk/customer/portal/2/group/6/create/43)
+>> /Border [ 0 0 0 ] /Rect [ 311.9615 764.7208 339.0515 775.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1643249737/RIS+Services+Policies#Scientific-Compute-Platform\(s\))
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 743.9708 95.19646 755.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNzc4YTZjNjIxYmQwNGI3OTk4M2Q0MWJmZWJjODQ4YTMiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 662.9708 710.384 674.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiMTVjMjNlMWU1YjFmNDA3ZWJlOGRmOGI3MTkwYTEzNmYiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 642.2208 808.109 653.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit.html)
+>> /Border [ 0 0 0 ] /Rect [ 164.9315 583.1146 431.2865 594.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/r/intel/oneapi-hpckit)
+>> /Border [ 0 0 0 ] /Rect [ 61.43896 524.0083 191.594 535.2583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.intel.com/content/www/us/en/develop/documentation/get-started-with-intel-oneapi-hpc-linux/top.html)
+>> /Border [ 0 0 0 ] /Rect [ 324.1565 471.2583 465.1565 482.5083 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/compiler-setup/using-the-command-line/invoking-the-compiler.html)
+>> /Border [ 0 0 0 ] /Rect [ 115.214 321.6521 186.194 332.9021 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1793949810/Intel+Compiler+Base+Tutorial#Multi-Stage-Build)
+>> /Border [ 0 0 0 ] /Rect [ 250.679 194.2146 382.394 205.4646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 11 0 R 12 0 R 13 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiZWMzZTg5ZDg1NTA1NDFkYjk1ZjRkNDljNmJmM2QyOWYiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 757.5021 707.8715 768.7521 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiM2E1OWY2YWYwNjczNDlhMmI1N2FiZmJhMDc1NTljNGEiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 725.5021 799.7915 736.7521 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1865285780/Docker+Tutorial?atlOrigin=eyJpIjoiM2YyZWQzNDQxNWMxNGFkYmE0YzY3ZDhiNzI4NDJiZTkiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 693.5021 619.4915 704.7521 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1793949810/Intel+Compiler+Base+Tutorial?atlOrigin=eyJpIjoiMGMwYmVkZGVhNGZhNGZkNDgzZDA1OGYwOTg5YjBmNDgiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 623.1458 678.704 634.3958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1793949810/Intel+Compiler+Base+Tutorial?atlOrigin=eyJpIjoiMGMwYmVkZGVhNGZhNGZkNDgzZDA1OGYwOTg5YjBmNDgiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 81.45646 583.6458 179.5115 594.8958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+21 0 obj
+<<
+/Outlines 23 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog
+>>
+endobj
+22 0 obj
+<<
+/Author () /CreationDate (D:20250603134652-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250603134652-05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+23 0 obj
+<<
+/Count 9 /First 24 0 R /Last 34 0 R /Type /Outlines
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 14 0 R /Fit ] /Next 25 0 R /Parent 23 0 R /Title (Software Included)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 14 0 R /Fit ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (Overview)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 14 0 R /Fit ] /Next 27 0 R /Parent 23 0 R /Prev 25 0 R /Title (Interactive Command-Line Session)
+>>
+endobj
+27 0 obj
+<<
+/Count -2 /Dest [ 14 0 R /Fit ] /First 28 0 R /Last 29 0 R /Next 30 0 R /Parent 23 0 R 
+  /Prev 26 0 R /Title (Multi-Stage Docker Image Build)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 14 0 R /Fit ] /Next 29 0 R /Parent 27 0 R /Title (Compile, Keep Only Binaries)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 14 0 R /Fit ] /Parent 27 0 R /Prev 28 0 R /Title (Sample Multi-Stage Dockerfile)
+>>
+endobj
+30 0 obj
+<<
+/Count -2 /Dest [ 14 0 R /Fit ] /First 31 0 R /Last 32 0 R /Next 33 0 R /Parent 23 0 R 
+  /Prev 27 0 R /Title (Single-Stage Docker Image Build)
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 14 0 R /Fit ] /Next 32 0 R /Parent 30 0 R /Title (Compile, Compile, Keep Source Code and Binaries)
+>>
+endobj
+32 0 obj
+<<
+/Dest [ 14 0 R /Fit ] /Parent 30 0 R /Prev 31 0 R /Title (Sample Single-Stage Dockerfile)
+>>
+endobj
+33 0 obj
+<<
+/Dest [ 20 0 R /Fit ] /Next 34 0 R /Parent 23 0 R /Prev 30 0 R /Title (Building and Pushing the Docker image)
+>>
+endobj
+34 0 obj
+<<
+/Dest [ 20 0 R /Fit ] /Parent 23 0 R /Prev 33 0 R /Title (Intel\256 Base Compiler Tutorial)
+>>
+endobj
+35 0 obj
+<<
+/Count 2 /Kids [ 14 0 R 20 0 R ] /Type /Pages
+>>
+endobj
+36 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2381
+>>
+stream
+Gau`T>BAOW'7KVYfLMjF+bFo\VUKOT-BZ(<Xu,1!?Q][g@ImM$[-IScDZNbAUdtiXaR*X\0d6niT%uPVQ4tnJ;"JUi!k]O=pH8[p_dEo&,q]Ti_&n;^^CRL;O#F'+O>sE3q@HgGZ$VL`cS""ME(oS)874I-p0`2s)q4Uc!==/b"t<A@n1GcU%h4>m:USEESA6:r"+uC)f9dkIf9]X32-5WrWkMAB<W=uP72pVk%)-%dFqF;%kJ!88Vg2HFMSfmiGu[==[Pl;:8^IghqTd?@K++B\M,-;(M<fkH#:VW5%p-LCP/-IZ+1:VjIJLsU3;d'%WC3=La@jT6+$n,7!iA<'&Co&IJ]OR])Mr83/5kJakm-j,+XK>O41rn',bK\)U,GF.Y@8Xu&_SCC%?_A;X&\L%5cUB&J]RRVpp0tN%XaSTKTf!LH-.qnh?dthJEn$8(qs0^^!!0@2#FUiPL_VO#=2"@f%O.D7!jU8('Y7XNX7SgbI#Bd$r!N4BJ;-aW0BsQKdh8l.u8>213h%6Bu3BM@`TgMHjl:iq:KqmEem?5YV8M'gIP`*#`;6o\.MO0D$D:>E[aso4p)jdcZ90dYrTb`]uju,*L?Upn7caXJuM7:,[;EE3S,4>jH_L\R/F(-h"QC`jEO4PjTPHPo2qtYrn?a7R>`Z5<.[CI/0c$6h5PW5?!/jl]'di+G?l47fqh5*)!eu8h)YNV`4LYXFDgraSVAA'k:0n4KD.IqH!-#]aF<0qB1;hD(DgF'pMTKP_o5"CT=a`AHL[]t>Rhh2F8OZPs)OG)p#YQ!o%c1+3>\;_c_gQ,]B?M,CQojSAb4W-EY'@+qt>MoEp1,DcOOc@L@SOq73js5/!4L'mL7`YU;*lce+NH,kHpC%:HQht^+P-tkarCbHoQVc8C"ttVKWR>du/Dt%O.KLI^hs&0bWZ%a6DF<O09Aah2e7J^GNRq$W(&\2I:2,:CgZ\*Ni9_[0X/\b;![W`!bf<E*M4@FGuNqju+<^.4[FN9aB^R[N9\7LboP(DY`=+Rhdg$[4(:MHg0,[9_"pE6he%P,Am"8X$1pD3e]kk-]^TFD:t03#OW+(>4F`NVGe]27Ke'b2p1YG;u5*`-+c;*Nqa9N=i&:a_EDHH%q11U`^P!Nl9e+DdU^(=D&V3EBoT1N,CY:2q?8Jt!=^t(m[c2onqi^%jBEQu;4</=\5P^R2R.R$PX9eff^<A2DVaI4Q[*=lcq:*<Ue0#k5?>[e3$,I2_[ZR1?u41FCUJc#?7QkRf(h&[M81N3R-Hju:L,trk:kCJH%]@O--opq`o_sfWR+^M*ls-`*+CXZO7=[JjKjY$U/u,gqa3L5rXH*+84:C2Q#),Yl2@P=jBNB?.NZQsctXI6"$H)ZKnfBVaG.&o'L%9Z7FQGOs5PXPEE#(I9+pl-[T8l`nl3es`a3_][D$TWs#SGcM/)ci'%05.67Q47iJ4`RKbcJ+-<t8u,aHquM&;P['F(V,QSiGk(@80f3u;=$!nH(eQU%B)]n(@'$JH`l"N9itbroN3<2KOBc/?PA[2#S'kkL@_38AP=&<6X*m%k0u[Pcm5RQC_aQIK]&W8fND?'uO@Q@W.W-u'_oZpV-BkQh@')(>/i;Xn3tNU?@S"Fip;GO!2WeM+s)>&i[J+1AX5oSD8S\:0"tmN/OeSDXaS@U%[Ylq*FeVG!c!@lWE!p,9rfS%GjBS^TXY0Y'Zc^"leLmI4F):(1Uq#>6)oo1?Hg_qR(`mDi5OF<r$\1N!T+)f9"A1\Y?kq.BVdFfjc33o(B+/,W/P^ULug/HioEgp-RkUZ\N?hCAJqU!Z,;5QW`;[Ir/F>[l+;jtsoqH>]s%D3*>V(H.`&_$i'\e^i_Ca'PCT8+8ag$b4EDB6Yp^dkk95CA%3lJeg/dGP.DWGd^2rP=F7s"1$<]OJ"9XbtAqF^.Z/4?,rQ@bIlO`qC'JoZ+Ss"L(-1U6!7bISN)MDJnH="7:s)Z$^A=qr^69,am;W-TO1!]>fA]ebp@[5G:ScSen=*-&P'?A<(0t9^;r`k@(2Z>(WPE+W`mY%h90Qp)!>LMLO,(31`1!S?W9DBQugGi16Y^Alm2LBLip/laD0bRkVu3[MW6_8g<5;XJSc;N^W@2cc24m`Y1rU,<mkcETC3?Gg-S1(.I:99`@u[47Uo-Pf!_;8\$qXr^>>JiZ6oLI3Kn2)ZF7t&HfiO`o";)_m8OmkY/agneCT?q3r^gnar:(W-IPDe`V!CU4^(XUAo]e[/s+V>c]"g%;cDKGGVrpkA;+'(O;Cb&.=6f*l!XXk_bq/bBKOHkT>D4t;MIX198!i#+L/_mBL.8"He&`\R%6*>%/c_AQW8lFoO?C56^:@`,!FXGk`_SO=Ka:n)I?QFYoAN'%fR!FB!`<~>endstream
+endobj
+37 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1047
+>>
+stream
+Gb!$ED/Yn)'Z]+o;k03/fJOL"Qn(m49kg@j$Z0(U#^"rXid_[`1*2`>TDmOIp8"eTDEFga"Ch7q^OO9fk?uZTKtH5%#8m?2?=L]2phRYl1;SGN(]NXiBH_9KO4Ga89ZsfYFpN+>*=LWj\hX-5[ii^LW(pbc&ej</hng;K\tL#"kC<j_'^J/98A3MaT0[<<^TVc]Q,'G?bHhp:&r;D[>dni*hj]j]>K0lJ!RINo]`rrgrYm;1dE,\l6F<j>6PhDj&oDE='_IT&)c;N8MD6%1@aY%9<54)^;Jde(-_s*$K1]fm.D@>MPj<2rdAQOCK:Ff5\Z4Q(/n7c'TOM\FdZiRLZE8Z5n[aj[X"nR6<]![kb6$7+"\Hm=;%YVVBEY4+8-Hu)S&qVmf8XXp.34Y*AQ)"2Dp%#31qhbq5o;hB&9eE/VV0LLX6MmKdhYAH(=b:'$<46!h=E4"lWk42>.saiW]Pd=<jAb=0stk,ouL;KoG'Ye\XD;(k@MAC)hsXD/8><kr#[ZV<Q,VX]OU]Bh/lTdE&g.9IR6@[_4H.24nit9Cpl=Ygh],4gN`NFTBhF4X(B*(T?m5Z-Ff[."7`Q6i)08,q@*.9>=5:`,4JOSUlK?Yepr5ieNC""iS5o3PU,hQT3^PP3H+5\ba!YT<$%#4DOKf,=<Q4JA[(nenNjZ/S``r<l'FNVBBe32KtE"b-5TI%Me-,=i"k=.kk7p06?Gh9WXWk9gSV&sPas'?gkX(,+M>5UQLd1V+q?keT`p4e#i1_lLT0OK1EQDIB-;%g7!m@[#D`@K$))i0YtU(1A_du*rMpS>`\R2/Gel0JI0X#<%BGdAdigT?(fj?9)8pt9432RRa)i`\e;fbKTTKJL4h.%0o6l^MgkM#RWAb.F/`LGa#i.:a2$rtX,1ZsfEA#t:^7C'IOkFe?4hqg]nS^ICkQ38:a<X9j?m9c\-io&<l';9I+^?*&I*I[s]j("c-iM&Fr&1CQ'?$tP!GT)/rqXD\=`)7FiSc58-r*/r+Y?+5K\MlP,(m(E%"/22+b-)d1LThs=%]RR~>endstream
+endobj
+xref
+0 38
+0000000000 65535 f 
+0000000073 00000 n 
+0000000125 00000 n 
+0000000232 00000 n 
+0000000459 00000 n 
+0000000726 00000 n 
+0000001049 00000 n 
+0000001396 00000 n 
+0000001508 00000 n 
+0000001739 00000 n 
+0000001934 00000 n 
+0000002050 00000 n 
+0000002313 00000 n 
+0000002637 00000 n 
+0000002895 00000 n 
+0000003170 00000 n 
+0000003495 00000 n 
+0000003844 00000 n 
+0000004148 00000 n 
+0000004464 00000 n 
+0000004781 00000 n 
+0000005034 00000 n 
+0000005121 00000 n 
+0000005374 00000 n 
+0000005448 00000 n 
+0000005547 00000 n 
+0000005650 00000 n 
+0000005777 00000 n 
+0000005942 00000 n 
+0000006051 00000 n 
+0000006162 00000 n 
+0000006328 00000 n 
+0000006457 00000 n 
+0000006569 00000 n 
+0000006701 00000 n 
+0000006815 00000 n 
+0000006883 00000 n 
+0000009356 00000 n 
+trailer
+<<
+/ID 
+[<979607b6e98b4e3fcde1fa082e03347b><979607b6e98b4e3fcde1fa082e03347b>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 22 0 R
+/Root 21 0 R
+/Size 38
+>>
+startxref
+10495
+%%EOF

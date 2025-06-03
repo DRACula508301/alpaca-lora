@@ -1,0 +1,10 @@
+11falsenonelisttrueCompute ResourcesHave questions or need help with compute, including activation or issues? Follow this link.User AgreementDocker UsageThe information on this page assumes that you have a knowledge base of using Docker to create images and push them to a repository for use. If you need to review that information, please see the links below.https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNzc4YTZjNjIxYmQwNGI3OTk4M2Q0MWJmZWJjODQ4YTMiLCJwIjoiYyJ9https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiMTVjMjNlMWU1YjFmNDA3ZWJlOGRmOGI3MTkwYTEzNmYiLCJwIjoiYyJ9OverviewThe purpose of this document is to demonstrate steps required to parallel tar using RIS-hosted image gcr.io/ris-registry-shared/parallel-tar. Input variable and process execution validation included.Interactive Command-Line Sessionbsub -n 2 -Is -q general-interactive -a 'docker(gcr.io/ris-registry-shared/parallel-tar)' /bin/bashparallel-tar.py -s path/to/source_dir/ -d path/to/dest_dir/Non-Interactive Sessionbsub -n 2 -q general -a 'docker(gcr.io/ris-registry-shared/parallel-tar)' "parallel-tar.py -s path/to/source_dir/ -d path/to/dest_dir/"Expected OutputRunning tar with parameters
+source directory: path/to/source_dir/
+destination directory: path/to/dest_dir/
+threads: 4
+tar file name: path/to/dest_dir/source_dir.tar.gz
+remove source directory: False
+
+Validating tar contents
+
+Parallel-tar completed successfullyScript Variables-s –source-dir source directory to tar and compress-d –dest-dir destination directory to place tar compressed file-t –threads number of threads for the compress algorithm, default 4-n –tar-file-name name of tar file with out the .tar.gz extension-r –remove-source-dir Remove the source directory when tar process completes, default False

@@ -1,0 +1,179 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 7 0 R /F3 10 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/servicedesk/customer/portal/2/group/6/create/43)
+>> /Border [ 0 0 0 ] /Rect [ 311.9615 764.7208 339.0515 775.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1643249737/RIS+Services+Policies#Scientific-Compute-Platform\(s\))
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 743.9708 95.19646 755.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNzc4YTZjNjIxYmQwNGI3OTk4M2Q0MWJmZWJjODQ4YTMiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 662.9708 710.384 674.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiMTVjMjNlMWU1YjFmNDA3ZWJlOGRmOGI3MTkwYTEzNmYiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 642.2208 808.109 653.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cistem.org/software)
+>> /Border [ 0 0 0 ] /Rect [ 69.34396 583.1146 156.8765 594.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cistem.org/system/tdf/uploads/cisTEM_tutorial.pdf?file=1&type=cistem_details&id=7&force=)
+>> /Border [ 0 0 0 ] /Rect [ 181.904 524.0083 219.8465 535.2583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1683489040/Compute1+Quickstart?atlOrigin=eyJpIjoiZmZkYWIzZDc2MzVlNDBmNjlmNTNmZTVmOWRkMTdmMDciLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 175.2515 385.0458 244.859 396.2958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 11 0 R ] /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Outlines 15 0 R /PageMode /UseNone /Pages 22 0 R /Type /Catalog
+>>
+endobj
+14 0 obj
+<<
+/Author () /CreationDate (D:20250603134651-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250603134651-05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+15 0 obj
+<<
+/Count 6 /First 16 0 R /Last 21 0 R /Type /Outlines
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Next 17 0 R /Parent 15 0 R /Title (Software Included)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (Development Notes)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Next 19 0 R /Parent 15 0 R /Prev 17 0 R /Title (Dockerfile)
+>>
+endobj
+19 0 obj
+<<
+/Count -1 /Dest [ 12 0 R /Fit ] /First 20 0 R /Last 20 0 R /Next 21 0 R /Parent 15 0 R 
+  /Prev 18 0 R /Title (Requirements for Usage in RIS)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Parent 19 0 R /Title (Environment Variables)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Parent 15 0 R /Prev 19 0 R /Title (Docker Image)
+>>
+endobj
+22 0 obj
+<<
+/Count 1 /Kids [ 12 0 R ] /Type /Pages
+>>
+endobj
+23 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2119
+>>
+stream
+Gau`TD,8p-(B2U_3$7Bsn&471=5$rfjeY7s'F:gCZ+:jD8M\-U\/q+jrUop/fS"bVRS]`Z#jfK>cZu,Rp)I"Mn3bJ#1^Ee8K)PcSlG@39e0dG=^;0_]kJtjsrm>Vk)\^O.r=EGY+`?:bGjidd$NHge0-kR#l3=KF_$AHN?4i%3!(JtF9(4<JTf7s%TQbP&VjbITI0ZPCnh=L?ipCG'Ms`,0Wc$/JWbHr%rMC#f2$T\U2`lm0'):3:qif7IVWMj;Q#*Ib.r2JCQpatk[TC`aG7)";,p<^?,^p:p!T`0!$*J[N-%keh*3Jas=?a&q%R1l7C*<rgZ@[]"1!FlC_Eua.86`=5K.,0L)2hr2/?QlCdl6L`67KSG00#%r-5U("BFWA8Y@g0f-AiaO9p-;+a3&TV,dea:-jg%hs!g;dJ.'=Hpb8g0cZrCBK5d+W\:0#&iRSWW:Sp'ap4ZsSl^S9VaO6fj[^?=eKMZDli+U+bTI-te]/V:U6qW:?"2fr;\\_]U%<o+/R1<+!2hbLII#KSYRGo>:cmToq*SO[`>&f:R.<9fp!`k8RCt&k8`,g?p6,cKr6nPH$^s2Cu:1,b1S!^^hjZQn]'u(K2d2K9!lL.P]>]6f*f+0dUXl,XXn6<qX(dr9Rj"Vj?(VNP1cg&)@n,*%e;mV4_3^Y8#<fhpbrIq`nI8r&(FT&P(]tSZQl;K6"kj'XmrRM!4jL^2+oZd[(]rjiQhUd_:R_6E)RDVWj7I^Vt4":JV.8G>hroNA4q8n$Rmq$sZ3&qt'_pOHnm%-8YhiI?C^E:^UH`+C9=FBpd[*\PPhAmon/:4(%o6PuL.)MDn])O^Tj3Wi#2fcf_Q9R,N;UtZsLeLn1hM=n(qY1dM>ou<'4uK@+H*:F:d)iMHrSu;7q=4A.48s[p0BWT9akd75):+%mBDE*%EBLg8>`SN-T&c6AA)D]JG3]s;[YS3OH-SPZ[K8C:=otZjW9ZI8@65St9^`:3oefPBkY\HBQ]la3.LlR0_>)Xu6%B]4`Y%#TI_:=Z8[KC%eAXE:hP=AR6B/46?0si?ZM/?mf5$rk=\\dn6bQaX4oqhC=i1a`&pEcr0CUEIB`*7,]o`EkpaoOu;YONXOgVmZ$7JN'fSMO;!.ddpi3<M#m,i6G5i)1qA0Opf1=4n55DHF:)i^ueKIJFUR66a3'A4('PuZVN`rsIpd",Q9^c0-YI6P=$b'g,s9giSF7?D0;r.W;_]E$X#%itU</>.lSRDe/("1ER4egEr4C3br`e@<MeGs@t?n'#.R_"C7V"OG-M)_li^Il*lT_GqJe@g!sT)8I#)MoJC&jRe-Ws(,gOMOIUmW6c4!iPben't-R079Ak2c@U!cR.6%g\prYo5@h7jF\p.t-_J2]\o,W1T3Yi9R>KLM)Z-c"pof32Snj%)[6#Ar?+mT<Xqtf3CW"2-;=OaO33+pUeK1O$X=IHY02]LL_D)W.82`?d&t*7]q@q>F_X[V>9t;?U:E,GQ^j42)qFS#tk6)ILgM2\+1^"I&og0itSrL/A^68h)#KF/K7BKa#Lb*?'r9B*38tHBk]Qt,CZ\D&!H\c!]eT+$50")BsK_r`jW+9>Jgc&7?G+I<13ff#b-g;u/FYhT9L=mDt1[]Zj]P`9>qo!nSJYDI^+$D3?$#sYlGB9]Q@c(/)[SYs@c[AIOh2mfPfl".EdCL7=1YH;K/JH@@JG$3Y'rt'E\'7S/LNR:BJPSDkKmr-0fWTmD66):0(i#f"NTmA/k4ER)q77`/Kdnm%#>4pT"H5Q+SX.Q'0h(*H]<]Jg@0sp,&N"KaZRO5aS&cMlG;2QKa*bamXF?51_=apiMs)og[U\**/uGuO_7D%RXc3_%AJDdt6/]Bmj6L'iXl)`,XsKHJ0C3#m-o/"<e#t.EhVe=tQOfG_rOb?Sr&jhNI9$9m5CZiM[fUpT!hCk3p9j1$)GG`mJff=T"8Zft4j[(nX!jOm'j%ellaX%#l65Ol@ofnRKWcK4fY#r"s'k4(`C"YE@J#l6H><W9)8u`*g,?3b@82lmB]ek(O-OOYmJ!.&1Pp(k>c!^q?AldO0TCn'?*=]qe4_krlht_0\6TSlh/q&X4FUPA;jlsFi4\f^QTR[okmm(X%mrpK3r~>endstream
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000000073 00000 n 
+0000000125 00000 n 
+0000000232 00000 n 
+0000000459 00000 n 
+0000000726 00000 n 
+0000001049 00000 n 
+0000001396 00000 n 
+0000001508 00000 n 
+0000001687 00000 n 
+0000001934 00000 n 
+0000002040 00000 n 
+0000002347 00000 n 
+0000002608 00000 n 
+0000002695 00000 n 
+0000002948 00000 n 
+0000003022 00000 n 
+0000003121 00000 n 
+0000003233 00000 n 
+0000003338 00000 n 
+0000003502 00000 n 
+0000003592 00000 n 
+0000003686 00000 n 
+0000003747 00000 n 
+trailer
+<<
+/ID 
+[<c2a5d00b9573544c65155f7b3dc0e32c><c2a5d00b9573544c65155f7b3dc0e32c>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 14 0 R
+/Root 13 0 R
+/Size 24
+>>
+startxref
+5958
+%%EOF

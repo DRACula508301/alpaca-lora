@@ -1,0 +1,148 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Outlines 10 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog
+>>
+endobj
+9 0 obj
+<<
+/Author () /CreationDate (D:20250603134655-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250603134655-05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+10 0 obj
+<<
+/Count 3 /First 11 0 R /Last 12 0 R /Type /Outlines
+>>
+endobj
+11 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Next 12 0 R /Parent 10 0 R /Title (Using mount)
+>>
+endobj
+12 0 obj
+<<
+/Count -4 /Dest [ 6 0 R /Fit ] /First 13 0 R /Last 16 0 R /Parent 10 0 R /Prev 11 0 R 
+  /Title (Using smbclient)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Next 14 0 R /Parent 12 0 R /Title (Install samba-client)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Next 15 0 R /Parent 12 0 R /Prev 13 0 R /Title (Empty the default samba configuration)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Next 16 0 R /Parent 12 0 R /Prev 14 0 R /Title (Use smbclient to connect to storage with the SMB3 protocol to your storage volume.)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Parent 12 0 R /Prev 15 0 R /Title (Use smbclient to PUT data into storage)
+>>
+endobj
+17 0 obj
+<<
+/Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1624
+>>
+stream
+Gb!#\CN%rc'`FV1EBb/94#i1t[t_=VR^d%9k#L.F#,E)LM70t[iJCNm@+]tdV.?K<ChH]\XbDm>YV)bnmdlMS/H!lkJ"-PP)8X-n$IjgX'W=Z0(k$qNB^`.<$iHbMCHEf%lao?6Q::/]EH(<9gD'?qo*YjULY<e#p[H#kp0@\*I1Jdb:eL40^-]Rk+J+%_<I`./o]QZ"rH\8tAZ=b8AR=GuX&MX?>cG#DIN/6[!FO?,0=Jb.Jr"Yh=0SMN8iG_-`b<#H"Ds^^5VPS_RWGDQLLLTJW.VSQg?;bJG?4HG.F_V`T]R5\-:M0N4BE.`Sqra_0(BEM_"&FH4TcHK;q%Jb+D*W-l?=SnfF:SHXL:E/jbBP1/<L"<CF2q;8biR0q5Z5R)RRh<gEspJ=4!lp+@#GOkO`ruZAem=d;;"\e%hm"$LhL@V$M.^%e#`5[0X/\bGcq9`!bguQ)!e.@;q:\=GhL7Xpk'-9eS#s>T#>@!oc6AmA@"Ek!HqJ@G,Y"GQL;DisDH\JGSKM\m1rK94BW@E6V$)d)a6S^7:++%_-u(8u:8B(A28id*"tV6n1-b_1KX50`&el5YQXZPq1_S;R&&q`PB!h]uVEqB2KXY0AYo@O_d'A0!^Gt#rZ.X@b\"$VFA^,h-%p5mTnLh;j';Sq9Wm2;tUe_/8&0<qbSgXV@ZDFSJQO(Fr,?OWu^X*>,YXg=;T#P//Gm'Ocm*oifYZK&d2qWF,ljH@@=m&@W6HS@X#Xsr);J(1K@I%\c<BFa-@^\GcOBa@O_1NnuT@(Qf:\67F$&3A%08-jlYnLVo-Y_0I`>WRCpD,cBu[[*?H5lNDE&3Ed181a2?:01,p>)rqtIe0"!dBek`@][88838q`RI"_?sk2mV2i67Y@nm-d__+3#[\5>D_b#604D(KHpf,[%rhjh3:6S7T,-].'`mL+Cqu^=I)O7>gBU=K8n4D-m=GR([<>g?%;_h&(S[r!r1VRpTLjA6C_#A9'kg0Dl"jR+(T,p*p#$3p2:9iT8b5s!4F.\#pUMF]lY7WU5Yhl+5/W?>_\eeR[-J\!28<h'KC!S-j-dZ^`]p;/#D.(P]kLKDY-^j:m<TM3^Lq\&Qn4_g@FBYfLeP)"f/t->^FCC`epE'^\r-O-E%TXrR%i^qJ?aAKnh8or]Y`;mi69:c;nuY'QV^aNCg'dZAn8.OJ4MN6/RN$/CQ_I,rC2*,u0n)Tt;a@6DhiXi]3ts8E,rr\Op=a;4'<-C4-MX&9+D)PKXBVd`\@AjpTpfoABM@P@*3#_SoG;",+Aju!RmhR8g)G+eS$?"&64bdK[JDeTOFkFHFtU\?PD/"IbBfke<)-e<GCb9;o?^koqW<4^rID&jSQN4Nq/pU$m><floTl-&bIe?-'3-Z:!<Ki(9DUtVPddb:e!Jto#._Vft_qPY#h/,L5-].QL'@?3.]\nU'Xc\NQ"3-nM5>aj0oqP#L]qcVt;K7iiJ-n0iqb=\e!n>&+TVmZ8/Gb3(@/\3!G,3!_,njdgc8jhUIFmT^pWT;'E*X+ULX`cbekO%GpV,O=dZf;a%#I5X_j!5T)MO0fF05F:$FnKQ5*.6ObGhDY6o,S2.>V#/EiI?'@4s,h.@>\J0qqA$YP(UGt!HsKSmf~>endstream
+endobj
+19 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 301
+>>
+stream
+Gat%[:J\k^%)q]6'^rg<O9fk&GMGG5V[]R1]:s+7f:f!kcnZc_G:2dTM$&MVb<G^SIQnKj#TE$W!]LaY[fd>*2(2l>j:nGLhP)JFmAEChiZq/P'V$s6M;ti;9.!ojY/>9$P=Vs<_I5KMjfHO$8.-UWe6k"ujt%NXq&"R?e%,#g[4iM*^DaN0<k$o8)<;1dq#FES:t=H:Gs5YNnkZV5c]NH"?h=0Ze#[r2]:P;FG]-i*<`g>\=4hE%#$n"O.]_NCI(J1pZ#a6R2'._AC?I04SEXn6NrMd,^Ak9l&H)U[\n[Z~>endstream
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000346 00000 n 
+0000000458 00000 n 
+0000000568 00000 n 
+0000000773 00000 n 
+0000000978 00000 n 
+0000001064 00000 n 
+0000001316 00000 n 
+0000001390 00000 n 
+0000001482 00000 n 
+0000001618 00000 n 
+0000001719 00000 n 
+0000001850 00000 n 
+0000002026 00000 n 
+0000002145 00000 n 
+0000002211 00000 n 
+0000003927 00000 n 
+trailer
+<<
+/ID 
+[<74be6bac4d65331e6ecd64f22d7e1a9c><74be6bac4d65331e6ecd64f22d7e1a9c>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 20
+>>
+startxref
+4319
+%%EOF

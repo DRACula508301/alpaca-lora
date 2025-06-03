@@ -1,0 +1,15 @@
+11falsenonelisttrueCompute ResourcesHave questions or need help with compute, including activation or issues? Follow this link.User AgreementDocker UsageThe information on this page assumes that you have a knowledge base of using Docker to create images and push them to a repository for use. If you need to review that information, please see the links below.https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNzc4YTZjNjIxYmQwNGI3OTk4M2Q0MWJmZWJjODQ4YTMiLCJwIjoiYyJ9https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiMTVjMjNlMWU1YjFmNDA3ZWJlOGRmOGI3MTkwYTEzNmYiLCJwIjoiYyJ9Software IncludednoVNC (https://novnc.com/info.html )IGV for Linux (https://www.igv.org/ )Build IGV Docker ImageLog onto compute1> ssh washukey@compute1-client-1.ris.wustl.eduCreate IGV-specific noVNC Dockerfile by entering the following command in its entirety:> cat <<'EOF' > $HOME/noVNC/Dockerfile
+
+FROM gcr.io/ris-registry-shared/novnc:ubuntu20.04
+# Install IGV
+ENV IGV_URL="https://data.broadinstitute.org/igv/projects/downloads/2.9/IGV_Linux_2.9.4_WithJava.zip"
+RUN wget ${IGV_URL} -O IGV.zip \
+    && IGV_DIR=`zipinfo -1 IGV.zip | cut -f 1 -d '/' | sort | uniq` \
+    && unzip IGV.zip \
+    && mv $IGV_DIR IGV \
+    && rm IGV.zip \
+    && chmod -R 777 IGV \
+    && cd IGV \
+    && chmod a+x igv.sh
+ENV PATH=/app/IGV:$PATH
+EOFBuild and push your Docker container to Docker Hub. Documentation on how to do this can be found here.Submitting the IGV jobSet the noVNC password> export PASSWORD=Complete export PASSWORD= with the password of your choosing. Do not leave this blank.Submit the IGV job to compute1> PATH="/app/IGV:$PATH" LSF_DOCKER_PORTS='8080:8080' bsub -Is -R 'select[port8080=1]' -q general-interactive -a 'docker(location-of-docker-image)' supervisord -c /app/supervisord.confPlease see our documentation for more information on selecting a port.You are a member of multiple LSF User Groups:If you are a member of more than one compute group, you will be prompted to specify an LSF User Group with -G group_name or by setting the LSB_SUB_USER_GROUP variable.Since LSF is running interactively, it will output the name of the host it’s running on in the terminal.The host will be the IP address needed to access the VNC.For example: <<Starting on compute1-exec-187.ris.wustl.edu>> translates to the IP being https://compute1-exec-187.compute.ris.wustl.edu:8080/vnc.htmlThe password will be what was set above with the export PASSWORD= command.Once connected, you can open IGV by entering igv.sh into the GUI terminal.> igv.shUsing a different IGV version:The above instructions are current for IGV v.2.9.4. If you would like to use another version of IGV, substitute the IGV_URL in the Dockerfile with the URL of the version of IGV for Linux you would like to use.

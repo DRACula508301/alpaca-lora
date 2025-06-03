@@ -1,0 +1,192 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 7 0 R /F3 8 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/servicedesk/customer/portal/2/group/6/create/43)
+>> /Border [ 0 0 0 ] /Rect [ 311.9615 764.7208 339.0515 775.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1643249737/RIS+Services+Policies#Scientific-Compute-Platform\(s\))
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 743.9708 95.19646 755.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNzc4YTZjNjIxYmQwNGI3OTk4M2Q0MWJmZWJjODQ4YTMiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 662.9708 710.384 674.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1864892726/Docker+Basics+Building+Tagging+Pushing+A+Custom+Docker+Image?atlOrigin=eyJpIjoiMTVjMjNlMWU1YjFmNDA3ZWJlOGRmOGI3MTkwYTEzNmYiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 642.2208 808.109 653.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1683489040/Compute1+Quickstart?atlOrigin=eyJpIjoiOTFlZDBhYTFmY2NhNDM3OThmYzU3NWRjNmI5MDcwY2EiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 411.6146 645.344 422.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1782874484/THPC?atlOrigin=eyJpIjoiNTllNDE1ODJlOTQyNDIyZjg3ZTIwZWU4OTg4ZWFjNTkiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 207.749 182.4446 224.8415 193.6946 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 9 0 R 10 0 R ] /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1782874484/THPC?atlOrigin=eyJpIjoiNTllNDE1ODJlOTQyNDIyZjg3ZTIwZWU4OTg4ZWFjNTkiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 207.749 806.2208 224.8415 817.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 12 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Outlines 16 0 R /PageMode /UseNone /Pages 22 0 R /Type /Catalog
+>>
+endobj
+15 0 obj
+<<
+/Author () /CreationDate (D:20250603134651-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250603134651-05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+16 0 obj
+<<
+/Count 4 /First 17 0 R /Last 21 0 R /Type /Outlines
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 18 0 R /Parent 16 0 R /Title (Interactive GUI Session)
+>>
+endobj
+18 0 obj
+<<
+/Count -2 /Dest [ 11 0 R /Fit ] /First 19 0 R /Last 20 0 R /Next 21 0 R /Parent 16 0 R 
+  /Prev 17 0 R /Title (Command-Line Sessions)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 20 0 R /Parent 18 0 R /Title (Interactive Session)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Parent 18 0 R /Prev 19 0 R /Title (Batch Session)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 13 0 R /Fit ] /Parent 16 0 R /Prev 18 0 R /Title (Example Config File)
+>>
+endobj
+22 0 obj
+<<
+/Count 2 /Kids [ 11 0 R 13 0 R ] /Type /Pages
+>>
+endobj
+23 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2307
+>>
+stream
+Gau`UCK'!/')g+Zk`>'fOYhB2X);bX%'7"l%bTX&;lQJqH&TepCGc_7q=V3eP0Ln!N"TAE$7r!@;>9>Cdq?Z'%/_:1h]Mt[*eAc0J=&$Z!O4L$7[J'T3r&I-$@bW1g@R8GG&8%C_pHW9A`;DlNsU1VeK)mj/7LZE3l$Hkk$=S@]+0cD+@O,Fp^6gp:NPT$NUeI/K1#27N#%nD)%?bM0&n4[Y<jl4l71,;lJC_hdbq1Si2b[GHX9otm!Y:MP!j#H1Uq$@.C+I1A[<@`o9@V'Sm7m0`&QN$>iL:7foGM]&:nE"ETH/N&;F!ZW/OgMj_oIki89-CS0tRl,_MJh.Ekq^_M[Mt#V'JJJB'rX9R2!j1s#JUPnW5'/d+rL$dOnh9NFu!;&LS0cf\OuaQ'+o%$K^fL/RB0J5eQ)#a+FdriZB&3A;4"K9(3o@hFW?FXN,B!q%*PA%9"bl6O1YboR7=Vd)$\k:'TAe$dCAdae\$0Q8j]Qr(+7Ms<E^U!/`8%0h\-'et8`BFYPE!HX[)'UEaE$J?+`gets2R6`!,51\TQ#m;-@=I;4fAH^A)$>C[G\.FSZ@gX)H'>a8cHN8FRc=\&;BB;e/][)d!>_a3/kA4-9n\ip%84+_20,Tl\QcUi;Q=9>7kIBi&muZQnd1"3FT/<2'Gq/gCobA556DJg^6/XTN@[?=1^>ujr.5IHC4mqMh84"[p5o=C`-$g;V(?4.:6sA3u@B8N]deX[+>_;\dXuXSu*KU6D*\Pn/,2rLhJNXm!=nENdDj0C"eN`M+K@/-8R9)lHo0r<5o>P1c\\^'aIX,t=P&hr\(N!`J/Q]3&]n*KP+_SFLDaW3%D80q6VRo=nQjOmjeoAMnai:Fp]t9K#T.naUkJu.F+n?mne`49I(j;S0)u[,,/c&oEo9`2eB2QG8d6bdh_>/41^e")ebLL-FqRmtFIL^etZ.\Lc@&O_:cVP`NOJ1]_<HBn'c';&!<\$26W-G@"8j>,`K:Z<EAG0HbKXkV`L/Y!A:rkO?OHHD&5d%.jP/\#/YCZUN<?),u7UD8HS16=Yj1<L#;^3,SMC_+2JDO3GdbBk#)(tnf[aoVjG>Zi=P`;e>,K^4Y:@k"T$%ko_K8B91&Gb8bU`[kOnDZ<lg8NXts(.T26R/I>=J\ZNk4iKSPpN&*P"M?ler=a:Q-ti3q7$f"L>807WfGd]q:_-)p6W9B%2>(YW&$23R5'>@:196i(^;^:==!R[f>GFtoCWXUqQhoOM;Q[>-4)LpW?[6c16IeS>?%u_h/nG9KNRA.]$3i(9gd#ekeF]EQD_:$CV'fgc=VU,!e!]`@G8-D5LN'%MKOp5%%.op,)7S_YgZg%M'9kZ;oU`.oh-=_oe!7*_`%.HLq5'\YS9+Bnf<^;0KKTVFH5OJd9/:\qt#97LGETc9tl[jro`T95O(;C:9^1SVq[4/d6ZkR>/%]58iu'A=CNfpFN.HC("Hnqrf=%F-#(@lU&SX2nb%ul_[aOnPjqbk`-j5S"sn-r9$hVGjsA[$^IqbK_>J`(n#5%(bc8ps>Z'Q5D7UgoCeM+(L9q9QFN_RSMK(+Mji4D4dhW/$Ud0pGm<4m)l:tKC*F\[BZ=g<\`.?-0N"Gu:C`[`ZGR9,[YQF\k,MZ\LA!aKNCc8hPp+;moMQ-+J])CRfdq`_?nR!(gn'q//.UPDF@dU>Q^@I\\C"o(p)?*DQ>8YKlTKX]ac(78?U0Er*k`foa27Pcd@-c8s\BC$Z4Xqh\,ak>78(NRG]KB[(Og9M`*b<&>LM'GT0qHK:(!US1`/!r!`LE5aCqD<_$uSrBZTOSBJn_Usn*(aW_rI6Fq"SG`4MAHh^E/=uD(g!,O]PDC.jpaAk]q@KF`E4[in3*\bhF%2oP;r.c*tldW)<bj=lp[OX._-kD;<aRHe!hU6s1j@PWW_R8nk[cf,`s[QhH22VL-Pk8&4`hIVg;U,sR@frcA3$2rZP$Q,>pNgr0j?Vk<6%ce!!nR=lc$8$gt=F4*0'0mY1?.eQd2gQo0!:QhQi;?t"RNT"3=rohY6E%_Q\6cbUqWao(`l8E.e16dCaCGn]26s_h5/ZR2eOO61X'7D3`SoGIJ0CN`K`bUPRamGr]3;FXOc9Hs)EUS"Z4dX.^4A0./XO3Pf#dO,/h*$Y#'Lc&:QRU6_:`^]gS_%L)5XkKbP67j2>KW1Z*6cA?nEFl0b&B9sZ2;^.=6?.F3gho/e(b-@[lF1gcP&IEZ-mEhoF4h_P,j19:6hcm%CQ&a9YP&Yb1YSU,>o/LGhI.R4-l_n[&I2_eoiV12`J/!dWD;q<Y!q+)`[UWP+J!a~>endstream
+endobj
+24 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 682
+>>
+stream
+Gaua;h/Ac:&A[3!/+,-]1kRMjZH$Ou-7rMmL@2Hi^]^iK1>=YAIm9EaZrOC]qpK$._Y7KrrAYmR^^f/'Gm!Og"+Q%+LQIdO,8<F%LM>n!o+lN/_)b7%M399<1^Ho;-H,aE;.Fj'G7m:GK#8G6hG/.j_39C`MP@mY',8D7NM-A8N_qW^Pglr0Cab&@0s]pUV+D(u1Mgo9/l[^;(MhA.[>*(gk"8"d,a:V2cuoWGb,q3MEXeo*OF=d1JDmL?P1B%/ZEM/7cG/@rUL'8"G,[.ke/,"`:c_'cF:Ngc9;h$]!?q'G/,1`)IhqI38&!7`1O4]Q;Ia&?rUrc;p`(n'g!b6_7u,?UZeP5@P>BZngFnobRu?P%fU'd.Tj$,gC#GR3_,g4^0T/jtcRPC@ATkoX39X--5/T]8Ssrc/#LgPIgH+6r0\u%Yo*84Fm2!.4\o[!'BIrcsGk""$iPPaZD*W]f=b,Hc9RjrRjdXhf""Sk/jW@Tq.'=RskN]"\N;@o?+[JEd!fb.lOau/HT@"KSP(r4B)Kl;jLEn!*N#9M_hX_jb7pJ]5`anq]RSD%8d`PIh@4#`<D@Qul-mBB*]B[]nCd%uhmfG%WJ@>(jI9j6b%<gucb#?"7][4P8dG4H=NS=_Q)^WZ:Ck_bQPtS^AFG@\5btQfjk3U;*K#U1?$P0llcVL,V~>endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000458 00000 n 
+0000000725 00000 n 
+0000001048 00000 n 
+0000001395 00000 n 
+0000001500 00000 n 
+0000001612 00000 n 
+0000001918 00000 n 
+0000002210 00000 n 
+0000002465 00000 n 
+0000002757 00000 n 
+0000002982 00000 n 
+0000003069 00000 n 
+0000003322 00000 n 
+0000003396 00000 n 
+0000003501 00000 n 
+0000003657 00000 n 
+0000003758 00000 n 
+0000003853 00000 n 
+0000003954 00000 n 
+0000004022 00000 n 
+0000006421 00000 n 
+trailer
+<<
+/ID 
+[<46abd269cbc75056578fbf399c91ca3a><46abd269cbc75056578fbf399c91ca3a>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 15 0 R
+/Root 14 0 R
+/Size 25
+>>
+startxref
+7194
+%%EOF

@@ -1,0 +1,342 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNTdkZGE2ZGU0MTYwNDA5NmJhNzM2ODY4OGU1ZGYzOTYiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 347.7965 550.2583 437.0165 561.5083 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1705115761/Docker+and+the+RIS+Compute1+Platform?atlOrigin=eyJpIjoiNTdkZGE2ZGU0MTYwNDA5NmJhNzM2ODY4OGU1ZGYzOTYiLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 292.7915 273.7958 309.884 285.0458 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.docker.com/)
+>> /Border [ 0 0 0 ] /Rect [ 184.829 214.6896 201.9215 225.9396 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/)
+>> /Border [ 0 0 0 ] /Rect [ 274.874 193.9396 291.9665 205.1896 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.docker.com/products/docker-desktop)
+>> /Border [ 0 0 0 ] /Rect [ 130.2215 173.1896 147.314 184.4396 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 41 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/_/ubuntu)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 806.2208 76.02646 817.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/_/debian)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 785.4708 74.36146 796.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/_/centos)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 764.7208 78.52396 775.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/_/alpine)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 743.9708 72.68896 755.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/_/microsoft-windows-base-os-images)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 723.2208 82.26646 734.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/_/r-base)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 674.2208 57.26146 685.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/_/python)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 653.4708 75.19396 664.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/r/continuumio/miniconda3)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 632.7208 86.02396 643.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hub.docker.com/u/jupyter)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 611.9708 76.43896 623.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Annots [ 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://washu.atlassian.net/wiki/spaces/RUD/pages/1683489040/Compute1+Quickstart?atlOrigin=eyJpIjoiNDg4OWE2MWE5YTJkNGVhYjgzMzlmODdlMmIzMjc2MTciLCJwIjoiYyJ9)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 317.0508 625.7615 328.3008 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Annots [ 21 0 R ] /Contents 43 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+23 0 obj
+<<
+/Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+24 0 obj
+<<
+/Outlines 26 0 R /PageMode /UseNone /Pages 40 0 R /Type /Catalog
+>>
+endobj
+25 0 obj
+<<
+/Author () /CreationDate (D:20250603134658-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250603134658-05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+26 0 obj
+<<
+/Count 10 /First 27 0 R /Last 39 0 R /Type /Outlines
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 28 0 R /Parent 26 0 R /Title (What will this documentation provide?)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 29 0 R /Parent 26 0 R /Prev 27 0 R /Title (What is needed?)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 30 0 R /Parent 26 0 R /Prev 28 0 R /Title (What is Docker?)
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 31 0 R /Parent 26 0 R /Prev 29 0 R /Title (What is a container?)
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 32 0 R /Parent 26 0 R /Prev 30 0 R /Title (Where can I find Docker?)
+>>
+endobj
+32 0 obj
+<<
+/Count -4 /Dest [ 10 0 R /Fit ] /First 33 0 R /Last 36 0 R /Next 37 0 R /Parent 26 0 R 
+  /Prev 31 0 R /Title (Creating a Docker Container)
+>>
+endobj
+33 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 34 0 R /Parent 32 0 R /Title (1. Decide The Base Container)
+>>
+endobj
+34 0 obj
+<<
+/Dest [ 20 0 R /Fit ] /Next 35 0 R /Parent 32 0 R /Prev 33 0 R /Title (2. Install Software and Software Dependencies)
+>>
+endobj
+35 0 obj
+<<
+/Dest [ 20 0 R /Fit ] /Next 36 0 R /Parent 32 0 R /Prev 34 0 R /Title (3. Build, Test, and Upload An Image)
+>>
+endobj
+36 0 obj
+<<
+/Dest [ 22 0 R /Fit ] /Parent 32 0 R /Prev 35 0 R /Title (4. Expanding An Image)
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 22 0 R /Fit ] /Next 38 0 R /Parent 26 0 R /Prev 32 0 R /Title (Using a Docker Container on the Compute1 Platform)
+>>
+endobj
+38 0 obj
+<<
+/Dest [ 22 0 R /Fit ] /Next 39 0 R /Parent 26 0 R /Prev 37 0 R /Title (Advanced Container Addition)
+>>
+endobj
+39 0 obj
+<<
+/Dest [ 23 0 R /Fit ] /Parent 26 0 R /Prev 38 0 R /Title (Example of Using the Compute Platform for Development)
+>>
+endobj
+40 0 obj
+<<
+/Count 4 /Kids [ 10 0 R 20 0 R 22 0 R 23 0 R ] /Type /Pages
+>>
+endobj
+41 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2110
+>>
+stream
+GauHMgN)%,&:O:Sm%`CA&V>6"V/;_Lbqu!@Z._rcquW"B$(D&3!jo%XI2Cg1Z7L@d=NYk$dipEVB@#ue5SQ?YU$hr^!dHe\2t&1l+/X+P+UMTR$%AEdI6G0WJ$^0^V^)Q.0S\*KLd)1IS@e<[_AR2T+c."35D%u//kh&6&sC6H9Ild#i*5!RDOQ[.mcq?TqAPCY#u#8l?ZT7_hEFOX];JP?dls22Bg8*d?k'hh#%-^T4%UbE$4g_A\WW+g7`]@!$Egpj9N;gk3KujN?s1LWrXk[*Dr1Bi!lnI\Y[k=YDY`R1S?cf:Ve9-]\27i_e3]@1UJ4=)hMh.b8kF'-!*qFoiRZ+?o,S;m<ILnU[5`m>ktFXcCPLd&N=T'O'(95EqG=5)n[&[0(s[F4\cK]8a)H/Pk-/7$!B#Y4.?.Go*3S\7qW_UuPLLg`Je(X;3C+M[FPBBW7K("0S=^CM;VJ`$fQTWMCq9F=_$hk`=b8)UL0S:aL%JhD-jbf8h2.[%1tLkMNCas4oL4mV__Eo-^IUW0e1,AlB;(6I9rrOg]B(mfD.suP3'FLBr16nHp;hm+Lf4/[2UiY:eXRKeU12_ZO1.4[alK*3J)Y[>P1LYm[O,1IEs57CEi"mK(B/p'Q]IJPhIZrh=Y_d7FZ&$F+;l$&H[n$u@@TNPm/,!/F@pSFo6`CTUGO0/i2$\>Om<JmqcACj+mH]4ON.8Pe["93[GuY.QI]m.bUR&Z7a:WoR0XHK(^53^k0&N)#m!al(]fr#aG.E\cq?p"$m1^Qq9;\/8KtQN-$jLC>cFTT;Iuq_Y%,tSC1&hK"(pZ;QE(;(:U(n'Y#Gd5HgU`KdV7Hd>,1Fj&*rgl2(0XU?M!^Nq#P*F5m]'DU-Ztm,Fs1r27)g"dWhGLc2h@B&k`,#9AlCW6L2PQRLhphnbm*(pAj_>@+,Fn3!/IrVN]tA+bf#]cK@M$`sk_XSsUF32Q-eGB,YKPESK)`:lo-=U4]O%Wkq6$?#&ML;6!Vh_`;Bf2bR2H7U7Q;gqg.p/^mQ3+@hQL-t$g"ZW3n<Csudt8*ZK'\[)K7/(r)-^`7D\)lNJX8?7<RrB$K5?_3N@(#Vj:VI>i9h(&f(KP^'HZRGJ1pPjb?[b99%0bCpMGU!ceqPrn402&_&<bL!#DfsDkKR,(DQ6B"r&ZV817s2@srT_<rWuKaDeO!t["'m^,f[)-cG_K)#h@:^^Y.Ia_UEL)panLH&iMsC:<8JiW[hZ9W/4V>U>\8S'7j0LI/P93t3[A?/fNIGK+uQP8/81jSg7Cth:'7UM]W*\?S3dcE<O[J'H#<Sg6U9V3HC39T0<]c\DkHY%m\V-\J<c:nK6?ng/1=((4^GDg>jp<+[7;#rm)U$qB6;knqo[Wmf#Y!\5fL%GStiKLs8M'DjKqW6bR2%qI#X0p9$cEUl1o(\3fZ#LeHtrr`SSEs6+B2alg+@iRX`&iMI?$aM;t[n?N\XjR6dR+`k]Vq)]po<?#?rT[0NG]<kB*`E0!.L?8m-$E1-1O\iZ..C]4SZXHeL\$?s0]F%kF/=).=IlY#+n2k&<B$tAPF(^r;*V]Q-hI%WIte0@hP7!m=Os/H8YA-'--*%HXS(=H7T[TTo(/S`I<jcjqCD.1eZQ6%!)HV7\Z84r``2rr$I!J+$ualGP=@A)9`NfPb70,/6:Q]`VC7SiFZ0T@7hVZ(1\C#Y??&-5i'\]=o:]g"&13!HrAL(s76HVR3%jE?>VnWO4=NdVQ;qtL"cf!^_R(+%./4*QkNnYfMtK)+iLQk#]XdKbk1RZL+RB0,*g.8.Va?s_r-1`9uAHU'ig^FS/>rgrkLSb6lkpQ6H_Mh`6?ceOC$b#+OBRu2NX:=;mt"saYKD69f40(??bJ0=?ABD1h)(&qKmFnN_NVLcG5NCKl1DjM3k0h&53!RJWo;U)X\72<LHGfIW0>1s1KX[A1g-.AiY,'iL^'c(1X$[9@lege2GYT,-Og9dlJ[7A@W_DM6Y&6jm=:iuP5g,.=4\D\!FGLI[`4*9%&PiA"H?aE4jk1#t<<kB,PYLT3:&E%rtABl=??7s8bM@J^@kTHclL8XN2RA`tj3k]:C@<4B(b'f>YW&YJ]M`X\*piZb"rWd4$,iJ~>endstream
+endobj
+42 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1846
+>>
+stream
+Gau0D?$FaW&:O#NQmYY^'9"Mm56AGJlrcLk%PN6-Co,P1Z*KZhaSu%,O[##WUq"?,4VV?S@d_I24'2-k`?3G*cIMtKkOADW#9JNn'"l!d@/`+_0u*MXiY2=]g>+<"r#c=j86jbTWUJkk&!fA'ju#r)f_%BC_Y0^,q>BDE$&gkf6r":?E<p=c+t$"ZcNRQZ?kE;:7!iDkM*dT5_=JX/$mVJ`@pHhmRsifr>^fi*V5^*(r#_=+7R;O06%:p:H5rhX(n;IikdXqY7dRZf86udd4\VC@gpEu>(WW9Rs%8O<_q!]'rPW^%9tZOBYu-+&;/Bbl"paV9B+mI>:<LQ^rMqJj[FKn>GLN-@7lNh-3j:@E!B22$1h,'+r/tgr=))HX]Fs_Gb&0WOY>f3qetCH1I5tY+%>E:9nF'6maOGN7M3TKsr$Is"VaJj$;0$iV=R;jDo_7Ob@0c<>ZBPLP[._P2=fK6K'X?k<>mbQkN20,8A19<7k'V.GDKNTL`K$FJ,>E[<S"1/Ad-/A(l)A`O6Q?Ufc`d':CK5qc.hLV6H;b+%$D9l';6mh8UHfc));%Qf!j`MIOZe3=\q;UO;IR]$a8Ph#d#<.0CORLu_>+AsM</QV+BOAP)a[^8OV:9n&LGpGi*aKI"!X'9e&'9JZ:]'\/G')pTj$/dAXrf2LDH[M.5aK](,>8'G/P1$nQkK6U^m"E`+u%CW$9/fMr(?hTDaiOk.o^aMcpgA<@=GdM&2P<>a1WjKBH4tH;5BVd=cXH;73Vdg5$1I)Q[*pYgq<,"kZ^9FbaAZG_=1T``Vi96UJs#rSYNr#mSDH`'u=lBSc)'n4*I\XbGt*-QmdI2oA-Vis^>>h[P>U\P=hqakBdZH?L:UMLQ:=OW++SDp5O,@1EWTH`dH2*0uYGC"d=D8t4jk[_/sQ&2kn!a[nO.D2F$UQDu@_Q9M!0>%?#E!Yt#]G^KV54E37+cQ,V)cV0<ug@aQBq1n6E_7#D;JFKlY4aFhU=X'\HGA1^0$-mWA-I-;47R>lJS3U*cf)-<07/pBqrYTAC;g2]rOF";l#JF#XO[Ghl/\:(KEL.T]K22?".H*d5@S2$@_G]W<-lt8sdA3gAa,UndW*i/ip4::tG+1UmBiPfQD"[#P8e`5S'e&f5E@iWn7@V:SSaqR\LI"/!Nc4E>M08eJBm&+ED"Xoo]p9XaDmV>kEe")Z^?:J\2@7j5)(]r-)d18^W-.N2Z6rAU4Lo+I*-eZq2OdF=/L:mrZ1pj+M$Nk?L(eoeYH:6tV!<(PcRkkr<['n4[mRJEBPL_]+t(boP.&ijO"]X6i#AjF?Vl4FG*/dp_XgEaM4rN3*[2^OY<OH:VlN">h1sO:i=4BHP1.^**-^^1n?S>`MT]7<1UB^DAQ("K_i#/aP(jC"K_N2/$Bp>>F/S<C#jm)B$pMn;*n]/UkO8'iegD9aoi#tJ>2GLRD.tStkXMI1ig(CF(VB85b6oPEmnK2XRZQq3\+ct!p%lINGL/hjb=\o6kEN<@jfq")aBjb5YSQKn%C&,P/^Qc9.jh.PKF(h(Y4@Yi,n>kRXX>FT=a-(&'HTD(93gB-]>IoLg`InfO1[\V#,ddDU5h_fG!C&Hbn[)6rnE7SE\?UA-$&:Dg#,T<JF8oE_4W%I-DePDRN73,gBAgk8<3p;R?)9*rJ;Knm?0$47AiH'=XLL^ep+He=_V]'P"/EXg!kc#VCYU5esq[`n-)!ohTsOde.nHFd4&amE.p6/!gAB%*U<juX4^,j.i$p_m)>[Cmcde6UJ1=IhH$)YMDfqZIdc<mC#3P5^O;8dp*PJJmp<1T_)IL"9j<s.550M."5YJqWp/J$l1hJpE:H.2'bg0~>endstream
+endobj
+43 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2314
+>>
+stream
+Gau0ECNIra'`HlqTo\PXlhD2ZG%QNod_M0F/[PPU1HWK&[Z[";P-O)8nE]gTa`a/:'_Cg9!8!MMSU8XFpKlei)h&e*GHrRVmjT,;GDP:Bl's`IjcepZ179233dLmXS7]/J=e6`1!JtXIEb!FJGOI\<aGFEp=J>+Bm[2KonA3pja+@Nh'a8)&>rTO8fAII#eel0Tej&8J4F&PO,-$g1cZEIRN+?_8@)kYe1J-j_cUfb-MWEHJ_*(9M,0r]KnV-WTR=6F1hf87+o]G&tLChJ.'fHWs0*kk,p4pS2MZ?2BMFnJk'NLb(4K?3+`r9JHI'8/c%&thL0N'\n91BOp.[kA%jI&P>X>E<X?u]NC6tLrP4HbN+A;SI<a7s753PssTW8s+PMC?ldrD,<:*t-[>R(t.i1nug!oTl'[o+188k=-ZHCW[*sP#0j$.f1H1`fIGE`;[QRJlZ*89#b&bI]ZSZ.eOg@6>qB?'R"r2ImN!rY2_PJ!<S(^+793;8IR8kO^mm+<ocbZ"4>#!T)/MaDir0)!k:QBVjs9P=F5\i@OlQ\?oSeU0/Kt%ARtJ+lal4N-PL*K@c334Cl,)^]qd]3,fR.-?a;\hf93"u<,e=k!*-,l/QjdQ8uc!Nr2GQ0q6W(s-aM`N:tWc#;ISpA[O!bsJn/+9Rcd5,OeCPjBQ@/%EXRp/42rI%er^5u?Gt"CWZ9'AjUOoHX"%7`k^!;)'/p;BdM+e$$*Z1h_3E&X_1<O7^LWt:XCRJ>9?J',?>s<!!T8KWa)'o]Qi:[9d.2tS;3u0hVE=e00Xl*6KXl#\gpq,)^40qjghjh##qaZKJuP;")U1*S]0/>slJnKc_;c[+nmVP"59<p-\caOSnVp4Eg/V0F2[8!,7L3%mP0L!X:\>qa_#B/KC09S&U7I_>(KnSgW?0:^#:6ka^O)n5P*?AK:M3@:+)%@F-)pbH^^^TmrjU\L%sA>k?=S%U<a>AoL;m_FqACtI"$5DHP(mKU(MOg"#U*jE,N>aD*6g6&!qY+4>Y^GFq::""n*p*L0Q;`U0cT/SDAu$#:'^Y4p!t8U:?MEiN2(r8E'>Xc_oaPF!am'>+]5DVDP.ra@"*kM[JmDN:1mZ*(O5Yhl&X(:k'kEIWZi8+^MK$M;^Q^C"!WFR5$.dgZuJ.R"d>rh:H(,RFdf\>.VG@g.;5^Wa2B%1e[oZ2%;&tTA(;$t*$"LH"`:l41[Bb/jT]mM&7uo.OW-IM\fKOG>gN+#8sij-VZlAE1J]sg474Fm_mJOq=kfoAB;;.`K/chf3TP<X'sP.7MpNEt<o=HJ(L^n'K%#_PL@+@fRlZbu3boFG>kh((?$Sp"2BskY(o!@+Y%jK(CY&3ln9,J6lgpT(4C*&T$c)?sAEr[:ji4P?Kmhs)G@f?1^Gt4t!JSoj^=U_+#F5mq=Ec8C2u<oc#rmgodgn1\0fWDdZ@]0.fIWCbDhuaQfsrVfqgrsl563"DJ0G'WqI#lu/upi3,4Vb/MlbS[DIKMD+o`OAC8d\g79**ZbUBq[;klBXAKt@)KZVX7gTs`XrZap.&:&^=gV,gcL&K&].SEf-D5j,D7pM;s2"lF(mE=MeUW>(6(B2k]M0ncA1;9<n>[>'g\%M[Lpi>mN?XKA#q8N4.bJhN?]pL/"X(O)$I-5\M1;:M+*NqYqE1tE7K;QjlkfSQeDQ4?U];AgrVJ2SCH?q9JIRiZD<DC0qJ$.dc:1k+7(ViT!cT`HWMZX!&qMe!^GLg.`1tfOQH2cdhlIiq9lOU2&-T@7TGEWQ$bBN.$=-j_ebNY_bAjaa8B?#lV'YgA&%)=Y#+GB8Z<XOjr-gaeoCrL"]l2+XKCRRghRb;QtngA0$V"#l<+"cWNJ6A/&)`+AOZX$N0Ib/V2W2D*CW'X8r!:q%?Bg$G`[#l9b/3.#%j3-i'1JM[Jg1S*-3,pcoU@mad\%CgL^f?XMq(l<1'AJQqPnWdA.R+8fca8I_.9%CQjdB"+ntp,UQ;2KfAHC2_#fMYhRfagUr8Ed-,'+;[Pq#ELEC@3:FqpP02;Llq_j$rC?/2J"h[H)@[/79X1JJs4R$7>@oF-UE^*3mmUcs95iin9U-f%Wl>@(<0Eg&@AUj+rp"6''1@69K^"_7ROA,_BIf$e_.GlhT+f;kK$K'J6td_p;qHb^NY'I430Cpsb3>hk/m`GSWT@:aXlCAQTFKFV,,EB\,-r`X'g2h^iWZ&n9hnEWo^?_bh6SksQ#Rt*ni&f@'gkVOPjLl><^9GTYEI`Fa/2'/'hmQ]%G[$^u=$L]]C%k10ba7gp;"*6koi!k[8N#kUaa5_s:It*rq5AK9CIiYB%&c~>endstream
+endobj
+44 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1555
+>>
+stream
+GauHL?#SIU'Re<2\9gl(<7SJ>]kqP:"W5qsF&<@e$SBaaCPd.$b-(bmn"i2l-]4[.:uF;F-'H\:pRZH0idm"0ci-ZIJ3Oh=iPkuGLW'V5cj=.N2dA!g*\QmMlSZ$I`!O:?N$31Ha.ES;Y3fNgi4W3aEFs+Hq%4T!E9$AlkMW>-PJe%aMIq[RTc;=JM!jW`:Uu5'`J0^!(k/<5NK?WI8sNdB6A%1D#>Bb(J0UBIR7ql19P0B+/_1O>ojePtk'3P,-.WfKVCLW=K>fcOr(?JH/A/T'OL)LdbSlS\'B7A1HouY1L&!8jr8a(Gr47pO#B!p@Ln#m`=rmaV(*p46>[2bk`@f2d?bmO1jOs\4;\cpeE;1en#/M&jnOL=V\_7d'RaENNcgd0d2dIh]f0Bil'ZFY*nMrTL<<Xh8(bbd%^u1t[[hpSlYVdViK,DXac?Gg5QkC+q-g"C-%Ab>)"9I22]=dld^HTe]O;oERp19+:2<Uijq,atWX],O/=$g*]N#6$7L?0"g[LMe"jgdG!-ri]e#sOp]cZeL\"+q7rbjK3*^*'O9c]&O]O-U8MHn79U+t:ed\%4^.A;f]Sc!njfO/P6*pQoN[`e<V/@qhqmBjb!LANc\BO8F-rH&QCm)e;jLej>td4J,F5C=X?K7VQ0Zrt5"'c\n7/Y=rlKoQM=:3Y#K<ShQNkHTkACOA0QDSi<A'k,NJ4D-1LUruce7HgGC*Fcu9NI=L69hqH,g9\5alKS)H`G1!goKqJIaX)Me[>-6!Lj*h.:%_>j(70De/Vd$G4XDL5t1R2!/#U@M=/'Sc6edBBKGGF2JQ'/o[N!`h9M'ic,9ip,(X`_:ZH%^9)#7YtO)!X>4EABBK])eK0@lJ#^kq:UJm$YrJ1B7C9-;*&g0%82=+(e7uIM=WVVdtmGP,F-)Lk<]h]U7BrJ)>3XN>6HT'40,RA;HeAZMZiQ2BI&.^4clL3]^'PFcUn"aJrm6%7<9;=:&6<(MpU]NWpL!SIC6#"Q%(RctB/rmUu$5-.i!]5&O.c>CLAqYuLcFdV^p*aHZk"lK/5`<Tl0nc=erWc%RF"e/m)/l;=+1/T5Kb$M.0_a*Vge:#1u@`T='J@&60L`&EaY_g#`=A>pF.Q0X\%p^k!(cs3`QT=*Gi.N?]"3.HPj[YAo_D*HbMmF'28RPWc3ID"-INk6)D+!+`l9e//Fm_-"&RY#SBmLIl]e#M>&MH9W=L.NkfFGGXO8afh?ir]n>-SBhLd\s2a.Vrg']\7AW;V*>!i%TT`gJV+'D':)t'fH%Yg3DVM,dZiQp*]>o^*a=b#cI*PDm>3LZhch6=c'e?e_aBZ83QA7ChM6CoXV9:AEgO?QrYjUQLPXmYB7s]2g)TG`V^"TlRnfp\e,pBa6c@Zb@-Kc':6V?oP^IfaO3;#,V)Vc$N9=fZCNomD%MJ@;3br2N'D/"lDhJYF\!fM3,bMC=AjO=BtM2F#$DYT'#u,`30*'N[L95)b'FlcUUC.sQ`N<U$L_,/DmjLD=qTDQK0#4A3p_d#2,%#=9&aTWkI!,Vj0J`H_G9E9nH4SAJ6r~>endstream
+endobj
+xref
+0 45
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000336 00000 n 
+0000000448 00000 n 
+0000000772 00000 n 
+0000001095 00000 n 
+0000001270 00000 n 
+0000001444 00000 n 
+0000001641 00000 n 
+0000001889 00000 n 
+0000002073 00000 n 
+0000002257 00000 n 
+0000002441 00000 n 
+0000002625 00000 n 
+0000002835 00000 n 
+0000003019 00000 n 
+0000003203 00000 n 
+0000003403 00000 n 
+0000003588 00000 n 
+0000003869 00000 n 
+0000004177 00000 n 
+0000004402 00000 n 
+0000004608 00000 n 
+0000004695 00000 n 
+0000004948 00000 n 
+0000005023 00000 n 
+0000005142 00000 n 
+0000005252 00000 n 
+0000005362 00000 n 
+0000005477 00000 n 
+0000005596 00000 n 
+0000005758 00000 n 
+0000005868 00000 n 
+0000006008 00000 n 
+0000006138 00000 n 
+0000006241 00000 n 
+0000006385 00000 n 
+0000006507 00000 n 
+0000006642 00000 n 
+0000006724 00000 n 
+0000008926 00000 n 
+0000010864 00000 n 
+0000013270 00000 n 
+trailer
+<<
+/ID 
+[<7c16254b664ac349316b07b13d1a1137><7c16254b664ac349316b07b13d1a1137>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 25 0 R
+/Root 24 0 R
+/Size 45
+>>
+startxref
+14917
+%%EOF
